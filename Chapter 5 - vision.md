@@ -1,0 +1,596 @@
+##### Visual Coding
+- General Principles of Perception:
+	- You see an object when it emits or reflects light that stimulates receptors that transmit information to your brain.
+	- How does your brain make sense of that information? 
+		- your brain stores a representation of an object in terms of altered activity in many neurons
+		- the brain codes information largely in terms of which neurons are active, and how active they are at any moment
+		- impulses in certain neurons indicate light, whereas impulses in others indicate sound, touch, or other sensations
+- The Eye and Its Connections to the Brain:
+	- some basics
+		- light enters the eye through an opening in the pupil, then it is focused by the lens (adjustable) and cornea (not adjustable) and projected onto the retina, the rear surface of the eye, which is lined with visual receptors. 
+		- light from the left side of the world strikes the right half of the retina, and vice versa. 
+		- light from above strikes the bottom half of the retina, and light from below strikes the top half
+		- images are inverted but the brain understands them
+	- route within the retina
+		- in the vertebrate retina messages go from the receptors at the back of the eye to bipolar cells
+		- bipolar cells:
+			- located closer to the centre of the eye
+			- send their messages to ganglion cells
+		- ganglion cells:
+			- located still closer to the centre of the eye
+			- their axons join together and travel back to the brain
+		- amacrine cells: 
+			- get information from bipolar cells and send it to other bipolar, amacrine, and ganglion cells
+			- refine the input to ganglion cells, enabling certain ones to respond mainly to particular:
+				- shapes
+				- directions of movement
+				- changes in:
+					- lighting
+					- colour
+					- other visual features 
+		- there are dozens of types of ganglion and amacrine cells, varying in their chemistry and connections:
+			- light passes through the ganglion, amacrine, and bipolar cells en route to the receptors
+			- these cells are transparent, and light passes through them without distortion
+		- blind spot:
+			- the ganglion cell axons join to form the optic nerve that exits through the back of the eye
+			- the point at which it leaves is a blind spot:
+				- it has no receptors
+			- when the blind spot interrupts a straight line or other regular pattern, your brain fills in the gap
+			- we don't notice it in everyday life because:
+				- brain fills in the gap
+				- stuff in the blind spot of one eye is visible to the other eye
+	- fovea & periphery of the retina
+		![[Pasted image 20240507112854.png]]
+		![[Pasted image 20240507112911.png]]
+		![[Pasted image 20240507113922.png]]
+		- fovea:
+			- a tiny area in in the centre of retina
+			- specialised for acute, detailed vision
+			- nearly unimpeded vision:
+				- blood vessels & ganglion cell axons almost absent near it
+			- tight packing of receptors aids perception of detail
+			- each receptor in the it connects to a single bipolar cell, which in turn connects to a single ganglion cell that has an axon to the brain
+			- ganglion cells in the fovea of humans and other primates are called midget ganglion cells:
+				- each is small and responds to just a single cone
+				- each cone in the fovea has a direct route to the brain
+			- adjustments in other animals:
+				- extra foveas in eyes of birds enable them perception of detail in the periphery
+				- hawks and other predatory birds have a greater density of visual receptors on the top half of their retinas (looking down) than on the bottom half (looking up)
+					- to look up, the bird must turn its head
+				- many prey species have most of their receptors on the bottom half of the retina, enabling them to see up better than they see down
+			- foveal vision:
+				- cones only
+				- each ganglion cell excited by a single cone
+				- distinguishes among bright lights
+				- responds poorly to dim light
+				- good detail vision because each cone’s own ganglion cell sends a message to the brain
+				- good colour vision due to many cones
+		- periphery of retina:
+			- more and more receptors converge onto bipolar and ganglion cells
+			- result -> brain cannot detect the exact location/shape of a peripheral light source:
+				- the summation enables perception of fainter lights in the periphery
+			- ability to detect detail is limited by interference from other nearby objects
+			- peripheral vision:
+			- proportion of rods increases toward periphery
+			- each ganglion cell excited by many receptors
+			- responds to dim light
+			- poor for distinguishing among bright lights
+			- poor detail vision because many receptors converge their input onto a given ganglion cell
+			- poor colour vision, few cones
+		- foveal vision has better acuity
+		- peripheral vision has better sensitivity to dim light
+- Visual Receptors: Rods and Cones:
+	 ![[Pasted image 20240507113948.png]]
+	 - rods:
+		 - abundant in the periphery of the human retina
+		 - respond to faint light
+		 - not useful in daylight:
+			 - bright light bleaches them
+	- cones:
+		- abundant in and near the fovea
+		- less active in dim light
+		- more useful in bright light
+		- essential for colour vision
+	- rods outnumber cones by about 20 to 1 in the human retina, but cones provide about 90 percent of the brain’s input
+		- in the fovea, each cone has its own line to the brain
+		- in the periphery (mostly rods), each receptor shares a line with tens/ hundreds of others
+		-  120 million rods and 6 million cones converge onto 1 million axons in the optic nerve, on average
+		- the ratio is much higher in species that are active at night
+			- further adaptation to detect faint lights -> rods packed three deep throughout the retina
+	- people vary substantially in the number of axons in their optic nerve and the size of the visual cortex, largely for genetic reasons
+	- both rods and cones contain photopigments:
+		- chemicals that release energy when struck by light
+		- consist of 11-cis-retinal (a derivative of vitamin A) bound to opsins:
+			- proteins which modify the photopigments’ sensitivity to different wavelengths of light
+		- light converts 11-cis-retinal to all-trans-retinal, thus releasing energy that activates second messengers within the cell
+			- light is absorbed in this process, it does not continue to bounce around the eye 
+- Colour Vision:
+	- we define visible light waves based on which colours humans can see
+	- trichromatic theory:
+		![[Pasted image 20240507121646.png]]
+		- we perceive colour through the relative rates of response by three kinds of cones, each one maximally sensitive to a different set of wavelengths
+		- each cone responds to a broad range of wavelengths but to some more than others
+		- we discriminate among wavelengths by the ratio of activity across the three types of cones
+		- more intense light increases the activity of all three cones without much change in their ratio of responses
+			- the light appears brighter but still the same colour
+		- when all three types of cones are equally active, we see white or grey
+		- perception of colour depends on the frequency of response in each cell relative to the frequency of other cells
+			- response of any one cone is ambiguous
+			- nervous system determines the colour of the light by comparing the responses of different types of cones
+		- the three kinds of cones are not equally abundant & evenly distributed
+			- long&medium-wavelength are far more abundant than short-wavelength cones
+			- short-wavelength cones are about evenly distributed across the retina
+			- long&medium are distributed haphazardly, with big differences among individuals
+			- some people have more than 10 times as many of one kind as the other
+			- these variations produce only small differences in people’s colour perceptions
+				- in the retina’s periphery, cones are so scarce that you have no useful colour vision
+				- the smaller the object, the farther you have to move it into your visual field before you can identify the colour.
+	- opponent-process theory:
+		- we perceive colour in terms of opposites
+			- the brain has a mechanism that perceives colour on one of the 3 continua from:
+				- red to green
+				- yellow to blue
+				- white to black
+		-  After you stare at one colour in one location long enough, you fatigue that response and swing to the opposite.
+		- part of the explanation for this process pertains to the connections within the retina
+		- not the whole story:
+			- afterimages depend on the whole context, not just the light on individual receptors
+			- the cerebral cortex must be responsible, not the bipolar or ganglion cells.
+	- retinex theory
+		- constancy:
+			- colour:
+				- ability to recognise colours despite changes in lighting
+				- brain compares the colour of one object with another's
+				- we should avoid talking about the colour of a wavelength of light
+					- a certain wavelength of light can appear as different colours depending on the background
+			- brightness
+				- we perceive the brightness of an object by comparing it to other objects
+		- the cortex compares information from various parts of the retina to determine the brightness and colour for each area 
+		- whenever we see anything, we make an inference
+			- *On occasions when I have seen something that looked like this, what was it really?*
+			- going through the same process for perceiving shapes, motion, or anything else 
+		- visual perception requires reasoning and inference, not just retinal stimulation
+	- colour vision deficiency:
+		- some people do not perceive certain colours in the brain, not in the light or the object itself
+		- people with certain genes fail to develop one type of cone, or develop an abnormal type of cone
+		- red-green colour deficiency:
+			- most common form
+			- long and medium-wavelength cones have the same photopigment instead of different ones
+			- gene causing this deficiency is on the X chromosome
+			- women with one normal gene and one colour-deficient gene:
+				- all women with a red-green colour-deficient father
+				- slightly less sensitive to red and green than the average for other people.
+		- if a colour-deficient person got an additional cone, they would see those colours:
+			- tested only on monkeys
+		- some women have 4 cones, in a way:
+			- the long-wavelength cone shows genetic variation
+			- at one point in the protein, most genes code for the amino acid serine but 16 to 38 percent of the genes produce alanine instead the amino acid
+			- because the gene is on the X chromosome, a man has only one or the other
+			- because women have two X chromosomes, some women have one long-wavelength receptor with serine and one with alanine
+				- those versions of the long-wavelength receptor differ slightly in their responsiveness to light
+				- somewhat finer distinctions between one color and another, compared to other people
+- summary:
+	- sight - light strikes your retina, causing it to send a message to your brain
+	- the law of specific nerve energy:
+		- the brain interprets any activity of a given sensory neuron as representing a particular type of sensory information
+	- sensory information is coded so that the brain can process it, coded info isn't physically similar to the described stimuli
+	- light passes through the pupil of a vertebrate eye & stimulates the receptors lining the retina at the back of the eye
+	- axons from retina loop around to form the optic nerve, which exits from the eye at the blind spot
+	- greatest visual acuity in the fovea
+	- peripheral vision is highly sensitive to faint light but poorly sensitive to detail
+		- receptors in periphery converge their messages to their bipolar cells 
+	- retina has two kinds of receptors: rods and cones
+		- rods:
+			- more numerous in the periphery of the retina
+			- more sensitive to faint light
+		- cones
+			- more numerous in the fovea
+			- are more useful in bright light
+	- people vary in their number of axons from the retina to the brain. T
+		- those with more axons show a greater ability to detect stimuli which is:
+			- brief
+			- faint
+			- rapidly changing
+	- trichromatic/Young-Helmholtz theory of colour vision:
+		- colour perception begins with a given wavelength of light stimulating a distinctive ratio of responses by the three types of cones
+	- opponent-process theory of colour vision:
+		- visual system neurons beyond the receptors respond with:
+			- an increase in activity to indicate one colour of light
+			- a decrease to indicate the opposite colour
+		- three pairs of opposites:
+			- red-green
+			- yellow-blue
+			- white-black
+	- retinex theory
+		- the cortex compares the responses across the retina to determine brightness and colour of each object
+	- certain people are genetically unable to distinguish one colour from another
+		- red-green colour deficiency is the most common 
+##### How the Brain Processes Visual Information
+- An Overview of the Mammalian Visual System:
+	![[Pasted image 20240511121826.png]]
+	![[Pasted image 20240511121959.png]]
+	- cells within the eyeball:
+		- rods & cones of the retina make synapses with horizontal & bipolar cells
+		- horizontal cells make inhibitory contact onto bipolar cells
+		- bipolar cells make synapses onto amacrine & ganglion cells
+	- axons of the ganglion cells form the optic nerve:
+		- which leaves the retina
+		- travels along the lower surface of the brain
+		- optic nerves from the two eyes meet at the optic chiasm
+			- in humans, half of the axons from each eye cross to the opposite side of the brain
+			- information from the nasal half of each eye crosses to the contralateral hemisphere
+			- information from the temporal half (side toward the temporal cortex) goes to the ipsilateral hemisphere
+			- percentage of crossover varies from one species to another:
+				- depending on the location of the eyes
+					- in species with eyes far to the sides of the head nearly all axons cross to the opposite side
+		- most ganglion cell axons go to the lateral geniculate nucleus:
+			- part of the thalamus
+		- smaller number of axons go to the superior colliculus and other areas, including part of the hypothalamus that controls the waking–sleeping schedule
+		- the lateral geniculate sends axons to other parts of the thalamus and the visual cortex
+		- axons returning from cortex to thalamus modify thalamic activity
+- Processing in the Retina
+	- we have to choose what we want to focus on or we'd never be able to process everything
+	![[Pasted image 20240511123427.png]]
+	![[Pasted image 20240511123440.png]]
+	- lateral inhibition:
+		- sharpening contrast
+		- edge detection
+		- receptors send messages to excite nearby bipolar cells & also send messages to horizontal cells that slightly inhibit those bipolar cells and the neighbours to their sides 
+			- net result -> heighten the contrast between an illuminated area and its darker surround
+		- light striking the rods and cones decreases their spontaneous output, and the receptors make inhibitory synapses onto the bipolar cells.
+			- light on the rods/cones decreases their inhibitory output
+			- decrease in inhibition = net excitation
+				- to avoid double negatives, think of the receptors’ output as excitation of the bipolar cells
+		- the reduction of activity in one neuron by activity in neighbouring neurons
+		- heightens contrast:
+			- when light falls on a surface the bipolars just inside the border are most excited, and those outside the border respond the least
+		- important for:
+			- many functions in the nervous system
+			- olfaction:
+				- strong stimulus can suppress the response to another one that follows slightly after it, because of inhibition in the olfactory bulb
+			- touch:
+				- stimulation of one spot on the skin weakens the response to stimulation of a neighbouring spot
+			- hearing
+				- inhibition makes it possible to understand speech amid irrelevant noise
+- Further Processing
+	- receptive field:
+		![[Pasted image 20240511123741.png]]
+		![[Pasted image 20240511123811.png]]
+		- an area in visual space that excites or inhibits it
+		- receptive field of a rod/cone:
+			- the point in space from which light strikes the cell
+		- for other visual cells:
+			- fields are derived from the connections they receive
+		- hierarchy:
+			- rod/cone has a tiny receptive field in space to which it is sensitive
+			- 1< receptors connect to a bipolar cell, with a receptive field that is the sum of the receptive fields of all those rods or cones connected to it
+				- including both excitatory & inhibitory connections
+			- several bipolar cells report to a ganglion cell, which therefore has a still larger receptive field
+			- receptive fields of several ganglion cells converge to form the receptive field at the next level, and so on.
+			- after the information reaches the cerebral cortex, the receptive fields become more complicated.
+		- finding a cells's receptive field:
+			- an investigator records from the cell while shining light in various locations
+			- if light from a particular spot excites the neuron, then that location is part of the neuron’s excitatory receptive field
+			- if it inhibits activity, the location is in the inhibitory receptive field
+	- ganglion cells:
+		- have a receptive field consisting of:
+			- a circular centre 
+			- an antagonistic doughnut-shaped surround
+		- the receptive field might be excited by light in the centre and inhibited by light in the surround, or the opposite
+		- primate ganglion cells fall into three categories: 
+			- parvocellular
+				- small cell bodies
+				- small receptive fields
+				- mostly in/near the fovea
+				- detect visual detail
+				- respond to colour
+					- each neuron being excited by some wavelengths and inhibited by others
+			- magnocellular
+				- larger cell bodies
+				- larger receptive fields
+				- distributed evenly throughout the retina
+				- respond strongly to movement & large overall patterns
+				- don't respond to:
+					- colour
+					- fine details
+			- koniocellular
+				- small cell bodies
+				- receptive fields are usually small but not always
+				- some are colour-sensitive
+				- occurs throughout the retina
+				-  have several functions
+				- their axons terminate in several locations
+			-  existence of multiple kinds of ganglion cells implies that the visual system analyses information in many ways from the start
+	- cells of the lateral geniculate have receptive fields that resemble those of the ganglion cells:
+			- excitatory/inhibitory central portion
+			- surrounding ring with the opposite effect. 
+- The Primary Visual Cortex:
+	- Information from the lateral geniculate nucleus of the thalamus goes to the primary visual cortex in the occipital cortex (area V1/striate cortex)
+	- V1:
+		- when we imagine stuff, activity there increases in a pattern similar to what happens when you actually see that object
+		- if you see an optical illusion, the activity there corresponds to what you think you see, not what the object really is
+		- we do not know the exact role of area V1 in consciousness but we assume that it V1 is necessary for it
+		- damage:
+			- people with damage to area V1 report no:
+				- conscious vision
+				- visual imagery
+				- visual images in their dreams
+			- adults who lose vision because of eye damage continue to have visual imagery and visual dreams
+			- some people with damage to area V1 show blindsigh:
+				- ability to respond in limited ways to visual information without perceiving it consciously
+				- unaware of visual input
+				- unable even to distinguish between bright sunshine and utter darkness
+				- might be able to point accurately to something in the area where they cannot see or move their eyes toward it, while insisting that they are “just guessing”
+				- some blindsight patients can reach for an object they cannot consciously see, avoiding obstacles in the way
+				- some can identify an object’s color, direction of movement, or approximate shape, also insisting that they are just guessing 
+				- some can identify/copy the emotional expression of a face that they insist they do not see
+				- with practice, blindsight can improve
+				- explanations for it:
+					- small islands of healthy tissue remain within an otherwise damaged visual cortex, not large enough to provide conscious perception but enough to support limited visual functions
+					- thalamus sends visual input to several other brain areas, including parts of the temporal cortex
+		- conscious visual perception requires activity in it
+	- simple & complex receptive fields:
+		![[Pasted image 20240511132050.png]]
+		![[Pasted image 20240511132106.png]]
+		- several types of cells in the visual cortex:
+			- simple cell:
+				- in V1
+				- binocular input
+				- smallest receptive field
+				- has a receptive field with fixed excitatory and inhibitory zones
+				- the more light shines in the excitatory zone, the more the cell responds
+				- the more light shines in the inhibitory zone, the less the cell responds
+				- most simple cells have bar/edge-shaped receptive fields
+				- more of them respond to horizontal/vertical orientations than to diagonals
+					- makes sense, considering the importance of horizontal and vertical objects in our world
+			- complex cells:
+				- in V1 & V2
+				- binocular input
+				- do not respond to the exact location of a stimulus
+				- respond to a pattern of light in a particular orientation anywhere within its large receptive field
+				- most respond most strongly to a stimulus moving in a particular direction
+			- end-stopped/hypercomplex cells:
+				- in V1 & V2
+				- binocular input
+				- largest receptive field
+				- strong inhibitory area at one end of its bar-shaped receptive field
+				- respond to a bar-shaped pattern of light anywhere in its broad receptive field, provided the bar does not extend beyond a certain point
+			-  best way to classify a cell as simple/complex is to present the stimulus in several locations
+				- cell that responds to a stimulus in only one location is a simple cell
+				- cell that responds equally throughout a large area is a complex cell
+	- columnar organisation of the visual cortex:
+		![[Pasted image 20240511132952.png]]
+		- cells with similar properties group together in the visual cortex in columns perpendicular to the surface
+		- cells within a given column might respond to only the left eye, only the right eye, or both eyes about equally
+		- cells within a given column respond best to lines of a single orientation
+		- cells within a given column process similar information
+		- existence of columns indicates that the various layers of the cerebral cortex communicate with one another, instead of being independent
+		- are visual cortex cells feature detectors?
+			- given that neurons in area V1 respond strongly to bar/edge-shaped patterns, we might suppose that the activity of such a cell represents the perception of a bar, line, or edge
+			- such cells might be feature detectors:
+				- neurons whose responses indicate the presence of a particular feature
+				- supporting the idea:
+					- prolonged exposure to a given visual feature decreases sensitivity to that feature, as if it fatigued the relevant detectors
+			- Gestalt psychologists cast doubt on the idea that our vision depends entirely on feature detectors
+			- “top-down” processes:
+				- other brain areas interpret the visual stimulus and send messages back to reorganise the activity in the primary visual cortex
+				- when you see an optical illusion, it is due to feedback from other cortical areas to change responses in the primary visual cortex
+				- brain’s response to any visual stimulus depends on your expectations as well as on the stimulus itself
+			- feature detectors' excitation isn't sufficient to explain all of vision
+			- a cortical cell that responds well to a single bar or line responds even more strongly to a sine wave grating of bars or lines
+			- many cortical neurons respond best to a particular spatial frequency & hardly at all to other frequencies
+			- most visual researchers believe that neurons in area V1 detect spatial frequencies rather than bars or edges
+			- a series of spatial frequency detectors, some sensitive to horizontal patterns and others to vertical patterns, could represent any possible display
+				- still, we perceive the world as objects, not sine waves
+			- output from the primary visual cortex leads to further processing in other brain areas, but exactly how a conscious visual perception emerges remains a mystery
+- Development of the Visual Cortex
+	- a lot get developed even before we ware born
+	- visual experience after birth modifies the connections in brain
+	- deprived experience in
+		- one eye:
+			- for young animals:
+			- after time the deprived eye becomes unresponsive
+			- is open, the synapses from the open eye inhibit the synapses from the closed eye
+			- for each aspect of visual experience, researchers identify a sensitive period:
+				- when experiences have a particularly strong and enduring influence
+			- for adult animals
+				- same but the eye can become responsive again
+			- overall, more dangerous for young creatures
+		- both eyes:
+			- you don't become unresponsive in both eyes
+	- uncorrelated stimulation in the two eyes:
+		- stereo vision comes from comparing inputs from both eyes
+			- brain detects retinal disparity:
+				- discrepancy between what the left and the right see
+			- abnormal experiences can worsen depth perception (kittens)
+		- strabismus:
+			- lazy eye
+			- one eye not following the proper directions
+	- early exposure to a limited array of patterns:
+		- the kittens and stripes experiment
+		- astigmatism:
+			- blurring of vision for lines in one direction
+			- caused by asymmetric curvature of the eyes
+			- in 70% of infants but growth makes most eyes normal and astigmatism drops to 10%
+	- long-term consequences of impaired infant vision:
+		- cataracts:
+			- cloudy spots on lenses preventing perception of anything other than bright vs dark
+			- after removing them children need time to adjust to corrected vision
+		- adults who lose vision in childhood and regain it surgically later in life take a **lot** of time to  adjust to seeing
+- summary:
+	- The optic nerves of the two eyes join at the optic chiasm, where half of the axons from each eye cross to the opposite side of the brain. 
+	- Most of the axons then travel to the lateral geniculate nucleus of the thalamus, which communicates with the visual cortex. 
+	- lateral inhibition -> mechanism by which stimulation in any area of the retina suppresses the responses in neighbouring areas, thereby enhancing the contrast at light–dark borders.
+	- Lateral inhibition in the vertebrate retina occurs because receptors stimulate bipolar cells and also stimulate the much wider horizontal cells, which inhibit both the stimulated bipolar cells and those to the sides. 
+	- each neuron in the visual system has a receptive field 
+		- an area of the visual field to which it is connected
+		- light in the receptive field excites/inhibits a neuron depending on:
+			- light’s location
+			- light's wavelength
+			- light's movement
+	- mammalian vertebrate visual system has a partial division of labour:
+		- parvocellular system -> perception of colour & fine details
+		- magnocellular system -> perception of depth, movement, overall patterns
+	- damage to area V1:
+		- people report no vision, even in dreams
+		- some kinds of response to light (blindsight) can occur after damage to V1 despite the lack of conscious perception
+	- within the primary visual cortex, neuroscientists distinguish:
+		- simple cells:
+			- fixed excitatory and inhibitory fields
+		- complex cells:
+			- respond to a shapes' light pattern regardless of its exact location
+	- neurons within a column of the primary visual cortex have similar properties, such as responding to lines in the same orientation
+	- vision is an active process based partly on expectations
+	- during infancy, the cells of the visual cortex have nearly normal properties
+	- experience is necessary to maintain and fine-tune vision
+		- abnormal visual experience can change the properties of visual cells, especially if the experience occurs early in life
+	- Cortical neurons become unresponsive to axons from an inactive eye because of competition with the active eye. 
+	- If both eyes are closed, each cortical cell remains somewhat responsive to axons from one eye or the other, although that response becomes sluggish and unselective as the weeks of deprivation continue.
+	- developing good stereoscopic depth perception:
+		- one must have experience seeing the same object with corresponding portions of the two eyes early in life. 
+		- otherwise, each neuron in the visual cortex becomes responsive to input from just one eye.
+	- Some people have cataracts removed after years of cloudy vision. Vision, useless at first, improves with practice but remains imperfect in several ways.
+
+##### Parallel Processing in the Visual Cortex
+- The Ventral and Dorsal Paths
+	![[Pasted image 20240511114407.png]]
+	- V1:
+		- primary visual cortex
+		- sends information to the area V2:
+			- secondary visual cortex
+			- processes the information further
+			- transmits info to additional areas 
+	- connections in the visual cortex are reciprocal:
+		- V1 sends information to V2, and V2 returns information to V1
+	- Info from V2 branches out in several directions for specialised processing
+	- ventral stream:
+		- through temporal cortex
+		- perception/"what" pathway
+		- identifying & recognising objects
+	- dorsal stream:
+		- through parietal cortex
+		- action pathway/“how” pathway
+		- visually guided movements
+	- damage:
+		- people with temporal lobe damage can use vision to guide their actions, but they cannot identify what the objects are
+		- people with damage to the dorsal stream (parietal cortex) see objects but they don’t integrate their vision well with their arm and leg movements:
+			- can read, recognise faces, and describe objects in detail but they cannot accurately reach out to grasp an object
+			- while walking, they can describe what they see, but they bump into objects, oblivious to their location
+			- they can describe from memory what their furniture looks like, but cannot remember where it is located in their house
+			- uncertain where certain parts of their body are 
+			- specifically a problem of using vision to control certain arm and leg movements. 
+	- the distinction between ventral and dorsal pathways is useful but we should not overstate it
+	- we usually both systems in coordination with each other
+- Detailed Analysis of Shape
+	- as visual information goes from the simple cells to the complex cells and then to other brain areas, the receptive fields become larger and more specialised
+	- in V2 most cells are similar to V1 cells in responding to lines, edges, or sine wave gratings, but V2 receptive fields are more elongated
+	- V2 cells respond best to:
+		- corners
+		- textures
+		- complex shapes
+	- V2 & V3 have some cells that are:
+		- highly responsive to colour
+		- others highly responsive to disparity between what left & right eyes see
+			- critical information for stereoscopic depth perception
+	- in later parts of the visual system, receptive properties become still more complex.
+	- the inferior temporal complex:
+	- cells there learn to recognise meaningful objects:
+		- a cell that responds to the sight of some object initially responds mainly when it sees that object from the same angle
+		- after a bit of experience it learns to respond almost equally to that object from other viewpoints
+		- it is responding to the object, regardless of major changes in the pattern that reaches the retina
+		- in terms of  pattern of light and dark:
+			- figure–ground reversal is much like the original
+			- most people see it as a white object on a black background, rather than a face
+		- children as young as age 31⁄2 months show evidence of understanding that an object continues to exist after it goes behind an object that prevents a child from seeing it
+		- some cells in the inferotemporal cortex responded strongly whenever an original object reappeared
+			- some responded strongly whenever a new, “surprising” object appeared
+		- damage to the ventral pathway of the cortex:
+			- specialised deficits
+			- visual agnosia:
+				- inability to recognise objects despite otherwise satisfactory vision
+				- common result from damage in the temporal cortex
+		- most objects do not activate one brain area more than another
+					- the brain does not have a specialised area for seeing flowers, fish, birds, clothes, food, or rocks
+		- three types of objects do produce specific responses:
+					- parahippocampal cortex:
+						- responds strongly to pictures of places
+						- not so strongly to anything else
+					- part of the fusiform gyrus of the inferior temporal cortex, especially in the right hemisphere:
+						- responds more strongly to faces
+					- an area close to this face area:
+						- responds more strongly to bodies than to anything else
+	- recognising faces:
+		- a newborn’s concept of face requires the eyes to be on top, but the face does not have to be realistic
+		- young children activate more of their brain than adults do, when trying to recognise a face
+			- their accuracy is also lower than that of adults
+		- through childhood and the early teenage years, connections strengthen between the fusiform gyrus, especially in the right hemisphere, and part of the inferior occipital cortex known as the occipital face area
+		- occipital face area:
+			- responds strongly to parts of a face, such as the eyes and mouth
+			- fusiform gyrus responds strongly to:
+				- a face viewed from any angle
+				- line drawings and anything else that looks like a face
+			- people are highly predisposed to see faces wherever possible
+			- people vary considerably in their ability to recognise faces
+			- prosopagnosia -> impaired ability to recognise faces
+			- children who devoted at least an hour a day to some special interest, such as watching soccer or looking at pictures of space travel, showed fusiform gyrus responses to images related to that interest. 
+				- response was even greater for children with autism spectrum disorder, who pay less than usual attention to faces. 
+			- as people learn to read, the fusiform gyrus becomes more responsive to words and (in the left hemisphere) less responsive to faces.
+			- the fusiform gyrus participates in many types of detailed visual recognition.
+				- even in people with extreme levels of expertise, many cells in the fusiform gyrus respond more vigorously to faces than to anything else
+- Motion Perception
+	- the middle temporal complex:
+		- area MT
+			- middle temporal cortex
+			- also known as area V5
+			- most cells there respond selectively when something moves at a particular speed in a particular direction
+			- cells there detect:
+				- acceleration
+				- deceleration
+				- the absolute speed
+				- respond to motion in all three dimensions
+			- responds to photographs that imply movement
+			- MT activity is apparently central to experience of seeing motion
+		- area MST
+			- medial superior temporal cortex
+			- next to are MT
+			- cells in its dorsal part of  respond best to more complex stimuli:
+				- expansion, contraction, or rotation of a large visual scene 
+					- that occurs when you move your head:
+						- forward
+						- backward
+						- tilt it
+				- when head/eyes move from left to right:
+					- everything in your visual field moves across your retina as if the world itself had moved right to left
+					- yet the world seems stationary
+						- nothing moved relative to anything else
+		- MT & MST:
+			- receive input mostly from the magnocellular path:
+				- detects overall patterns, including movement over large areas of the visual field
+				- colour insensitive, so MT is also colour insensitive
+			- Neurons in areas MT and the ventral part of MST respond briskly if something moves relative to the background, but they show little response if the object and the background both move in the same direction and speed. In short, MT and MST neurons enable you to distinguish between the result of eye movements and the result of object movements. 
+	- motion blindness:
+		- damage to MT & MST
+		- being able to see objects but unable to see whether they are moving or, if so, which direction and how fast
+		- people with motion blindness are better at reaching for a moving object than at describing its motion, but in all aspects of dealing with visual motion, they are far behind other people
+		- science didn't believe in it for a long time
+		- after the discovery of area MT, researchers saw a mechanism whereby motion blindness could occur
+		- during a voluntary eye movement, you become motion blind, but just for a split second
+		- opposite case:
+			- some people are blind except for the ability to detect which direction something is moving
+			- area MT gets some input directly from the lateral geniculate nucleus of the thalamus
+			- even after extensive damage to area V1 area MT still has enough input to permit motion detection
+		- different areas of brain process different kinds of visual information, and it is possible to develop many kinds of disability.
+- summary
+	- ventral visual stream -> perceiving objects
+	- dorsal stream -> visual guidance of movements. 
+	- inferior temporal cortex:
+		- detects objects 
+		- recognises objects despite changes in position, size, etc.
+	- a circuit including the fusiform gyrus of the temporal cortex is specialised for recognising faces
+		- impairments in this circuit -> prosopagnosia
+	- fusiform gyrus also contributes to other types of visual expertise
+	- the middle temporal cortex (including areas MT and MST) is specialised for detecting the direction and speed of a moving object
+		- damage in this area -> motion blindness
+			- even people with an intact brain experience a brief period of motion blindness beginning about 75 ms before a voluntary eye movement and continuing during the eye movement
+
+#itb [[itb]]

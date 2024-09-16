@@ -1,0 +1,295 @@
+###### ==From the lecture==
+- mechanisms of neuronal transmission:
+	- axonal:
+	- fast
+	- 1 signal
+	- synaptic
+	- slower
+	- summation of signals
+	- Different neurotransmitters with different actions
+		- most stored in vesicles 
+		- exception -> NO (nitric oxide)
+	- in reality -> axons in series with synapses
+	- brain measures distance in # of synapses
+- neuropeptides/ neuromodulators:
+	- synthesised in soma
+	- released by dendrites 
+	- need more stimulation to be released than neurotransmitters but remain for a longer time
+	- examples: 
+		- oxytocin
+		- vasopressin
+		- endorphins 
+	- peptides -> subset of hormones
+		- hormones can be larger proteins than peptides
+		- in the brain produced by e.g., hypothalamus
+- neurotransmitter clean up:
+	- some just diffuse
+	- others are actively broken down:
+		- e.g. acetylcholinesterase, COMT
+		- cocaine & amphetamines prevent the breaking down
+	![[Pasted image 20240423113433.png]]
+- how does the transmission stop?
+	- autoreceptors
+		- presynaptic
+		- when neurotransmitter is released they pick up some and set in motion a process to stop further transmitter synthesis
+	- reverse transmitters
+		- postsynaptic
+		- travel back into the dendrites to inhibit further synthesis and release
+		- cannabinoids prevent this from happening
+		![[Pasted image 20240423113619.png]]
+- gap junctions -> electrical synapses:
+	- 2 neurons act as a single neuron
+	- more specific than synaptic transmission
+- the effects of drugs:
+	- many neurotransmitters & neuroactive drugs are related:
+		- PD drugs target Dopa
+		- depression drugs target serotonin
+		- nicotine enhances DA release
+	![[Pasted image 20240423114016.png]]
+###### ==The concept of the synapse==
+![[Pasted image 20240423112008.png]]
+- reflex arc -> circuit from sensory neuron to muscle response
+- temporal summation :
+	- summation over time 
+	- presynaptic neuron delivers transmission
+	- postsynaptic neuron receives it
+	- after time the bits of transported excitation are enough to activate the action potential
+- spatial summation:
+	- summation over space
+	- synaptic inputs from separate locations combine their effects on a neuron
+	- critical to brain functioning
+- spatial & temporal summations often occur together
+- inhibitory synapses:
+	- input from the axons hyperpolarises the postsynaptic cell, thus it decreases the probability of an action potential 
+- properties of the synapse:
+	- neurotransmitter receptors:
+		- Ionotropic 
+			- open a ligand-gated channel directly
+			- fast 
+			- very local • 
+			- e.g., GABA, ACh 
+		- Metabotropic 
+			- set in motion a cascade – “second messenger” 
+			- slower
+			- more global 
+			- e.g., DA, 5-HT 
+		- drugs can mimic neurotransmitters •
+			- e.g., LSD resembles serotonin (5-HT)
+- relationship among EPSP, IPSP & action potentials:
+	- EPSP
+		- excitatory postsynaptic potential
+		- graded depolarization
+		- after briefly stimulating an axon, a slight depolarization of the membrane of the postsynaptic cell is recorder
+			- this partial depolarization is a graded potential
+				- graded potentials may be either depolarizations (excitatory)
+		- results from a flow of Na+ into the neuron.
+		- if an EPSP does not cause the cell to reach its threshold, the depolarisation decays quickly.
+	- IPSP
+		- inhibitory postsynaptic potential
+		- occurs when synaptic input selectively opens the gates for K+ to leave the cell (carrying a +charge with them) or for Cl- to enter the cell (carrying a -charge)
+	- in many cases, the effect of 2 synapses at the same time can be more than double the effect of either one, or less than double
+	- certain combinations of synapses summate with one another more strongly than others do
+	- the strength of a synapse can vary from one time to another
+	- most neurons have a spontaneous firing rate:
+		- a periodic production of action potentials even without synaptic input
+			- in such cases:
+				- EPSPs increase the frequency of action potentials above the spontaneous rate
+				- IPSPs decrease it
+- summary:
+	- The synapse is the point of communication between two neurons.
+	- Because transmission through a reflex arc is slower than transmission through an equivalent length of axon, Sherrington concluded that some process at the synapses delays transmission. 
+	- Graded potentials (EPSPs and IPSPs) summate their effects. The summation of graded potentials from stimuli at different times is temporal summation. The summation of potentials from different locations is spatial summation. 
+	- Inhibition is more than just the absence of excitation. It is an active brake that suppresses excitation. For effective functioning of the nervous system, inhibition is just as important as excitation. 
+	- Stimulation at a synapse produces a brief graded potential in the postsynaptic cell. An excitatory graded potential (depolarisation) is an EPSP. An inhibitory graded potential (hyperpolarisation) is an IPSP. An EPSP occurs when gates open to allow sodium to enter the neuron’s membrane. An IPSP occurs when gates open to allow potassium to leave or chloride to enter. 
+	- The EPSPs on a neuron compete with the IPSPs; the balance between the two increases or decreases the neuron’s frequency of action potentials.
+###### ==Chemical events at the synapse==
+- the sequence of chemical events at a synapse:
+	- the neuron synthesises chemicals that serve as neurotransmitters
+		- smaller neurotransmitters in the axon terminals
+		- neuropeptides in the cell body
+	- Action potentials travel down the axon. At the presynaptic terminal, an action potential enables Ca to enter the cell. Ca releases neurotransmitters from the terminals and into the synaptic cleft, the space between the presynaptic and postsynaptic neurons. 
+	- The released molecules diffuse across the narrow cleft, attach to receptors, and alter the activity of the postsynaptic neuron. Mechanisms vary for altering that activity.
+	- The neurotransmitter molecules separate from their receptors.
+	- The neurotransmitter molecules may be taken back into the presynaptic neuron for recycling or they may diffuse away.
+	- Some postsynaptic cells send reverse messages to control the further release of neurotransmitter by presynaptic cells.
+- neurotransmitters:
+	- chemicals that affect another neuron
+	- types:
+		- Amino Acids:
+			- glutamate
+			- GABA
+			- glycine
+			- aspartate
+			- maybe others
+		- A Modified Amino Acid 
+			- acetylcholine
+		- Monoamines (also modified from amino acids)
+			- indoleamines:
+				- serotonin
+			- catecholamines: 
+				- dopamine
+				- norepinephrine
+				- epinephrine
+		- neuropeptides (chains of amino acids):
+			- endorphins
+			- substance P
+			- neuropeptide Y
+			- many others
+		- Purines 
+			- ATP
+			- adenosine
+			- maybe others
+		- Gases 
+			- NO (nitric oxide)
+			- maybe others
+	- synthesis of transmitters:
+		- neurons synthesise nearly all neurotransmitters
+		 ![[Pasted image 20240425132606.png]]
+		- some drugs act by altering the synthesis of transmitters:
+			- L-dopa, a precursor to dopamine, helps increase the supply of dopamine. 
+				- helpful treatment for people with Parkinson’s disease
+			- AMPT temporarily blocks the production of dopamine.
+				- no therapeutic use
+				- researchers sometimes use it to study the functions of dopamine.
+	- storage of transmitters:
+		- most synthesised in the presynaptic terminal
+			- stores high concentrations of neurotransmitter molecules in vesicles:
+				- tiny nearly spherical packets 
+			- maintains much neurotransmitter outside the vesicles
+		- Nitric oxide is an exception to this rule:
+			- neurons release it as soon as they form it instead of storing it
+		- Neurons that release serotonin, dopamine, or norepinephrine contain an enzyme, MAO (monoamine oxidase):
+			- breaks down these transmitters into inactive chemicals, preventing the transmitters to accumulate to harmful levels
+			- MAO inhibitors:
+				- antidepressants increase the brain’s supply of serotonin, dopamine, and norepinephrine by blocking MAO
+			-  also have other effects, and exactly how they help relieve depression is still not certain
+	- release & diffusion of transmitters
+		- depolarisation opens voltage-dependent calcium gates in the presynaptic terminal.
+		- within 1 or 2 m after Ca enters the terminal, it causes exocytosis:
+			- bursts of release of neurotransmitter from the presynaptic neuron
+		- an action potential often fails to release any transmitter
+			- even when it does, the amount varies
+		- after its release from the presynaptic cell, the neurotransmitter diffuses across the synaptic cleft to the postsynaptic membrane, where it attaches to a receptor. 
+		- many, perhaps most, neurons release a combination of 2 =< transmitters at a time. 
+			- some neurons release 2 transmitters at the same time 
+			- some release one at first and another one slowly later
+		- in some cases a neuron releases different transmitters from different branches of its axon 
+		- sometimes a neuron changes its transmitter, for example releasing one transmitter in summer and a different one in winter
+		- presumably, the postsynaptic neuron changes its receptors as well. 
+		- ==all these processes make it possible for the nervous system to be amazingly flexible==
+	- activating receptors of the postsynaptic cell:
+		- the effect of the neurotransmitter depends on its receptor on the postsynaptic cell
+			- when the neurotransmitter attaches to its receptor, the receptor may:
+				- open a channel -> ionotropic effect:
+					- when the neurotransmitter binds to an ionotropic receptor, it twists the receptor just enough to open its central channel which has a shape that lets a particular type of ion pass through.
+					- transmitter/ligand-gated
+						- when the neurotransmitter attached it opens a channel
+					- begins quickly and dies fast
+					- most brain's excitatory ionotropic synapses use glutamate or sometimes acetylocholine
+							- glutamate most abundant neurotransmitter in the nervous system
+					- most brain's inhibitory ionotropic synapses use the neurotransmitter GABA or glycine (in spinal cord)
+				- may produce a slower but longer effect -> metabotropic effect:
+					- initiating a sequence of metabolic reactions that start slowly but last longer
+					- use many neurotransmitters, e.g. dopamine, norepinephrine, serotonin, glutamate, GABA
+					- process:
+						- when a neurotransmitter attaches to a metabotropic receptor, it bends the receptor protein that goes through the membrane of the cell. 
+						- the other side of that receptor is attached to a G protein (protein coupled to guanosine triphosphate (GTP)), an energy-storing molecule.
+						- bending the receptor protein detaches that G protein, which is then free to take its energy elsewhere in the cell
+						- the result of that G protein is increased concentration of a second messenger, e.g. cyclic AMP, inside the cell.
+				- when iono/meta:
+					- ionotropic for vision, hearing
+					- metabotropic for smell, taste, pain, arousal, attention, pleasure, emotion
+	- neuropeptides/neuromodulators:
+		- released mainly by dendrites
+			- also by some and sides of an axon
+		- release of them requires repeated stimulation
+		- after a few dendrites release a neuropeptide, the released chemical primes other nearby dendrites, including those on other cells, to also release the same neuropeptide
+		- neurons containing neuropeptides do not release them often, but when they do, they release a lot
+		- unlike other transmitters that are released immediately adjacent to their receptors, neuropeptides diffuse widely, slowly affecting many neurons in their region of the brain. 
+		- their effects often last > 20 minutes
+		- important for hunger, thirst, and other long-term changes in behavior and experience 
+	- variation in receptors:
+		- differ in chemical structure, responses to drugs, roles in behaviour
+			- that enables devising drugs with specialised effect on behaviour
+		- a given receptor can have different effects for different people, or even in different parts of one person’s brain, because of differences in the hundreds of proteins associated with the synapse
+		- genetic variations in synaptic proteins have been linked to variation in anxiety, sleep, and other aspects of behaviour
+- drugs that act by binding to receptors:
+		- hallucinogenics:
+			- chemically resemble serotonin
+			- attach to serotonin type 2A (5-HT2A) receptors and provide stimulation at inappropriate times or for longer-than-usual durations
+			- LSD increases the connections among brain areas that ordinarily do not communicate much with one another
+			- a possible explanation for the hallucinogenic effect is that the increased spontaneous communication within the brain dominates over the input coming from the sense organs
+		- nicotine:
+			- stimulates a family of acetylcholine receptors (nicotinic receptors)
+			- as nicotinic receptors are abundant on neurons that release dopamine, nicotine increases dopamine release 
+			- as dopamine release is associated with reward, nicotine stimulation is rewarding too
+		- opiates:
+			- attach to specific receptors in the brain 
+			- relieve pain by acting on receptors in the brain as well as in the skin
+				- this finding paved the way for the discovery of other neuropeptides that regulate emotions and motivations
+- inactivation & reuptake of neurotransmitters:
+		- a neurotransmitter does not linger at the postsynaptic
+		- types of inactivation:
+			- neuropeptides just diffuse away
+			- after acetylcholine activates a receptor, the enzyme acetylcholinesterase (a-SEE-til-ko-lih-NES-teh-raze) breaks it into acetate & choline. 
+				- choline diffuses back to the presynaptic neuron, which takes it up and reconnects it with acetate already in the cell to form acetylcholine again. 
+				- process is highly efficient, but takes time, and the presynaptic neuron does not reabsorb every molecule it releases
+				- a sufficiently rapid series of action potentials at any synapse depletes the neurotransmitter faster than the presynaptic cell replenishes it, thus slowing or interrupting transmission 
+			- serotonin and the catecholamines (dopamine, norepinephrine, and epinephrine) detach from the receptor. 
+				- presynaptic neuron takes up much/most of the  released neurotransmitter molecules intact and reuses them
+				- this process (reuptake) occurs through transporters
+					- their activity varies among individuals and from one brain area to another. 
+					- any transmitter molecules that the transporters do not take will instead break down by an enzyme called COMT membrane, where it might continue exciting or inhibiting the receptor (catechol-o-methyltransferase)
+				- the breakdown products wash away and eventually show up in the blood and urine
+			- stimulant drugs, including amphetamine and cocaine, inhibit the transporters for dopamine, serotonin, and norepinephrine, thus decreasing reuptake and prolonging the effects of the neurotransmitters
+			- most antidepressant drugs block reuptake of one or more neurotransmitters, but more weakly than amphetamine and cocaine do
+		- drugs:
+			- when stimulant drugs increase the accumulation of dopamine in the synaptic cleft, COMT breaks down the excess dopamine faster than the presynaptic cell can replace it. 
+			- a few hours after taking a stimulant drug, a user has a deficit of dopamine and enters a withdrawal state
+			- methylphenidate (Ritalin)
+				- often prescribed for people with ADHD
+				- that & cocaine block the reuptake of dopamine in the same way at the same brain receptors
+					- the differences between the drugs relate to dose and time course. 
+						- cocaine users typically sniff it or inject it to produce a rapid rush of effect on the brain
+						- people taking methylphenidate pills experience a gradual increase in the drug’s concentration over an hour or two, followed by a slow decline
+						- if you inject methylphenidate you'll experience effects similar to cocaine’s, including a risk of addiction.
+- negative feedback from the postsynaptic cell:
+	- autoreceptors:
+		- in many presynaptic terminals
+		- receptors sensitive to the same transmitter they release
+		- respond to the released transmitter by inhibiting further synthesis and release
+		- they provide negative feedback. 
+	- some postsynaptic neurons respond to stimulation by releasing chemicals that travel back to the presynaptic terminal to inhibit further release of transmitter.
+		- e.g. nitric oxide 
+	- certain cells in the retina emit H+ to inhibit further transmission
+	- two other reverse transmitters are anandamide  and 2-AG
+	- cannabinoids
+		- bind to anandamide or 2-AG receptors on presynaptic neurons, indicating, that a message should not be sent anymore
+		- the presynaptic cell, unaware that it hadn’t sent any message at all, stops sending. 
+		- in this way they decrease both excitatory and inhibitory messages from neurons that release glutamate, GABA, and other transmitters 
+	- electrical synapses
+		- evolved in cases where exact synchrony between two cells is important 
+		- coordinating rapid escape movements in animals
+		- gap junction
+			- at an electrical synapse, the membrane of one neuron comes into direct contact with the membrane of another
+- hormones:
+	- chemical secreted by cells in one part of the body and conveyed by the blood to influence other cells
+	- diffuse within part of the brain, but not to other parts of the body
+	- useful for coordinating long-lasting effects in the body
+	- protein (longer) & peptide (shorter) hormones attach to membrane receptors where they activate a second messenger
+	- released from pituitary (anterior & posterior) gland
+	![[Pasted image 20240425164150.png]]
+- summary:
+	- The great majority of synapses operate by transmitting a chemical neurotransmitter from the presynaptic cell to the postsynaptic cell. 
+	- Many chemicals are used as neurotransmitters. Most are amino acids or chemicals derived from amino acids. 
+	- An action potential opens calcium channels in the axon terminal, and the calcium enables release of neurotransmitters.
+	- At ionotropic synapses, a neurotransmitter attaches to a receptor that opens the gates to allow a particular ion, such as sodium, to cross the membrane. Ionotropic effects are fast and brief. Most excitatory ionotropic synapses use glutamate, and most inhibitory ionotropic synapses use GABA. 
+	- At metabotropic synapses, a neurotransmitter activates a second messenger inside the postsynaptic cell, leading to slower but longer-lasting changes. 
+	- Neuropeptides diffuse widely, affecting many neurons for a period of minutes. Neuropeptides are important for hunger, thirst, and other slow, long-term processes. 
+	- Several drugs including LSD, anti-psychotic drugs, nicotine, and opiate drugs exert their behavioural effects by binding to receptors on the postsynaptic neuron.
+	- After a neurotransmitter (other than a neuropeptide) has activated its receptor, many of the transmitter molecules reenter the presynaptic cell through transporter molecules in the membrane. This process, known as re-uptake, enables the presynaptic cell to recycle its neurotransmitter. Stimulant drugs and many antidepressant drugs inhibit re-uptake of certain transmitters. 
+	- Postsynaptic neurons send chemicals to receptors on the presynaptic neuron to inhibit further release of neurotransmitter. Cannabinoids, found in marijuana, mimic these chemicals. 
+	- Hormones travel through the blood, affecting receptors in many organs. Their mechanism of effect resembles that of a metabotropic synapse.
+
+
+#itb [[itb]] 

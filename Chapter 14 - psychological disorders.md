@@ -1,0 +1,514 @@
+##### Substance Abuse 
+- Drug Mechanisms 
+	- most derive from plants
+	- plants evolved those chemicals to attracts bugs and other animals or to repel them
+		- we are animals too so it works on us
+	- facilitate/ inhibit transmission at synapses
+		- antagonists block
+		- agonists mimic/ increase the effect
+		- agonist-antagonists do both depending on what they work on
+	- affinity
+		- a drug has it if it binds to a certain receptor
+	- efficacy
+		- tendency to activate the receptor
+	- most drugs work on a bunch of different receptors
+		- as people vary in that department drugs hit us differently
+- Predispositions 
+	- genetic influences:
+		- if parents drink a lot, their biological kids probably will too:
+			- lower correlation for adoptive kids
+		- some genes increase the alcohol abuse predisposition
+			- those that affect serotonin synapses
+		- magical gen wyskokowy:
+			- controls the metabolism of alcohol
+			- after anyone drinks ethyl alcohol:
+				- enzymes in the liver metabolise it to acetaldehyde
+				- the enzyme acetaldehyde dehydrogenase converts acetaldehyde to acetic acid,
+					- a chemical that the body uses for energy
+			- people with a gene for producing less acetaldehyde dehydrogenase metabolise acetaldehyde more slowly
+				- If they drink much alcohol, they accumulate acetaldehyde, which produces flushing of the face, increased heart rate, nausea, headache, abdominal pain, impaired breathing, and tissue damage.
+				- acetaldehyde is probably responsible for hangovers, although research on this topic is sparse
+	- environmental influences:
+		- prenatal:
+			- pregnant women who drink increase the probability of a kid being an alcoholic
+			- childhood environment
+			- adult environment
+	- behavioural predictors of abuse:
+		- we study people to determine which behaviours can be symptoms of alcoholism tendencies
+		- interesting findings:
+			- sons of alcoholics show less than average intoxication after drinking a moderate amount of alcohol
+			- those who hold liquor well are at more risk
+- Synaptic Mechanisms 
+	- role of dopamine:
+		- released in nucleus accumbens
+			- important for many types of reinforcing experiences
+		- we love dopamine!
+			- all good stuff releases it
+		- crucial in addictive substances but not central
+		![[Pasted image 20240527215509.png]]
+	- cravings:
+		- insistent search and need to consume a substance/ stimulus
+		- cues associated with the substance trigger cravings even after a long time
+		- during a period of abstinence, the nucleus accumbens synapses responding to drug cues gradually become more and more sensitive, before later declining partly
+		- increases during the early stage of abstinence, and slightly declines later
+		- the increased response to drug cues has been traced to facilitated glutamate synapses in the nucleus accumbens, at least for cocaine and nicotine
+		- a treatment that desensitises glutamate synapses in the nucleus accumbens might reduce cravings for certain drugs
+		- although certain procedures have shown promise with laboratory rodents, so far nothing has been successfully applied to humans 
+	- tolerance & withdrawal:
+		- tolerance -> enjoyable effect decreases for a certain dose
+		- tolerance increases with time
+			- it is learned
+		- cues associated with receiving the drug activate learned mechanisms that counteract the effects of the drug
+		- tolerance can be weakened by extinction procedures
+		- withdrawal -> strong reaction to absence of a drug
+		- symptoms of withdrawal:
+			- sweating
+			- anxiety
+			- vomiting
+			- diarrhoea
+			- irritability
+			- fatigue
+			- shaking
+			- hallucinations
+			- fever
+			- cardiovascular problems
+		- getting a drug while withdrawal gives a powerful effects
+- Treatments:
+	- AA, NA, etc.
+	- therapy
+		- e.g. contingency management -> rewards for staying sober/ clean
+	- medication for:
+		- alcohol abuse:
+			- disulfram (antabuse):
+				- antagonises the enzyme metabolising acetaldehyde
+					- you get nauseous after drinking
+				- about equal to placebo
+					- because thinking sth is that medication also stops you from drinking
+				- people more often quit taking the meds than quit drinking
+				- another method -> meds straight after drinking:
+					- works but is unpopular
+			- naloxone (revia) & naltrexone:
+				- block opiate receptors
+				- decrease pleasure from alcohol
+			- acamprosate:
+				- similar effect to naltrexone
+				- mechanism of effect still uncertain
+			- opiate abuse:
+				- heroin was made to combat morphine abuse
+					- well, didn't work like expected
+				- substances that satisfy craving in a safer way but don't end the addiction:
+					- switching to methadone to avoid the rush
+					- buprenophine & levomethadyl acetate (LAAM):
+						- similar to methadone
+						- LAAM produces a long-lasting effect
+- Summary:
+	- drugs increasing activity at a synapse-> agonists; ones that decrease activity -> antagonists
+	- drugs act in many ways, varying in their affinity & efficacy
+	- predispositions to alcohol or drug abuse arise from genetics, prenatal environment, and later environment. 
+	- early onset alcoholism reflects a stronger genetic predisposition than does later-onset alcoholism
+	- people who drink alcohol with relatively little sign of intoxication are more likely than other people to develop alcohol abuse
+	- reinforcing brain stimulation, reinforcing experiences, and stimulant drugs increase the activity of axons that release dopamine in the nucleus accumbens
+	- for abused drugs other than stimulants:
+		- the amount of dopamine release does not correlate well with pleasure or addiction
+		- blocking dopamine synapses has little effect on opiate use
+	- evidently dopamine is not as essential to addiction as researchers previously believed
+	- repeated use of cocaine:
+		- decreases the response of the nucleus accumbens to all pleasant experiences
+		- increases attention to cues reminding the individual of cocaine
+	- during abstinence from cocaine:
+		- glutamate synapses in the nucleus accumbens become more responsive to cocaine-related cues
+		- that increased sensitivity increases cue-induced cravings for cocaine
+	- repeated use of a drug leads to tolerance & withdrawal 
+	- several drugs including antabuse and methadone help some people decrease their use of alcohol or opiates
+##### Mood Disorders 
+- Major Depressive Disorder 
+	- symptoms
+		- feeling sad & helpless for most of the time for a very long period of time
+		- no joy
+		- cognitive problems
+		- low motivation
+		- sleep problems
+		- contemplating suicide
+		- absence of happiness
+		- lowered empathy
+	- prevalence:
+		- same for men & women out of reproductive age
+		- more common for women in the reproductive age
+	- episodes are more common than long-term depression
+		- early episodes tend to be longer
+		- later are shorter but more frequent
+	- genetics:
+		- moderate degree of heritability
+		- also:
+			- injuries
+			- poor diet
+			- stress
+			- other causes
+		- we do not have a sure gene that causes depression
+			- demographic and ethnic differences
+			- symptoms vary between people
+			- we may be combining separate syndromes
+			- effect of a gene varies with the environment
+		- we suspect serotonin transporters
+	- abnormalities of hemispheric dominance
+		- increased activity in the right prefrontal cortex
+			- rather a predisposition to depression, not its effect
+- Antidepressant Drugs 
+	-  types:
+		![[Pasted image 20240528113616.png]]
+		![[Pasted image 20240528111705.png]]
+		- trycyclics:
+			- imipramine
+			- blocking the transporter proteins that reabsorb serotonin, dopamine, and norepinephrine into the presynaptic neuron after their release
+			- prolonging the presence of the neurotransmitters in the presynaptic cleft
+			- block:
+				- histamine receptors -> drowsiness
+				- acetylcholine receptors -> dry mouth, urination problems
+				- certain Na channels -> heart irregularities
+		- SSRIs (selective serotonin reuptake inhibitors):
+			- attach to the centre of the serotonin transporter protein and lock it into a shape that prevents serotonin from binding to it
+			- milder side effects than the tricyclics but similar effectiveness
+			- common SSRIs:
+				- fluoxetine
+				- sertraline
+				- fluvoxamine
+				- citalopram
+				- paroxetine
+		- SNRIs:
+			- serotonin norepinephrine reuptake inhibitors
+			- duloxetine
+			- venlafaxine
+			- block reuptake of both serotonin and norepinephrine
+			- improve certain aspects of memory
+		- monoamine oxidase inhibitors (MAOIs)
+			- phenelzine
+			- block monoamine oxidase
+				- metabolises catecholamines and serotonin into inactive forms
+			- when MAOIs block this enzyme, the presynaptic terminal has more of its transmitter available for release
+			- no longer first choice for treatment
+			- you have to avoid certain foods 
+		- atypical
+			- bupropion
+			- ketamine
+		- many side effects
+	- how effective are they:
+		- neurotrophins:
+			- aid in survival & development of neurons
+			- depressed folks have less of one of them (BDNF)
+				- synaptic plasticity
+				- learning
+				- proliferation of new neurons in the hippocampus
+				- drugs may increase amount of BDNF
+		- at least more effective than placebos
+		- placebos work strongly here
+		- little effect on suicide rate
+		- it's difficult to find a good drug for a certain person, lots of trial & error
+	- alternatives:
+		- cognitive behavioural therapy
+		- electroconvulsive therapy
+			- works 
+			- sometimes causes memory impairments
+		- exercise & diet
+		- repairing sleep schedule
+		- people with seasonal affective depression can be treated with a ton of bright light
+			- it's now tested for standard depression
+		- deep brain stimulation:
+			- physician implants a battery-powered device into the brain to deliver periodic stimulation to certain brain areas
+				- areas are chosen because of studies showing that they increase their activity as a result of antidepressant drugs
+			- still in the experimental stage, but results have been encouraging
+			- most patients who failed to respond to all other treatments show gradual improvement over months, and about half get fully back to normal, as long as the stimulation continues
+			- a possible refinement of this procedure is to use optogenetic stimulation
+				- can control individual connections, rather than all the axons going from one area to another 
+- Bipolar Disorder 
+	- depression + mania
+	- symptoms of mania:
+		- restless activity
+		- excessive self-confidence
+		- rambling speech
+		- loss of inhibition
+	- usually starts in the teenage years/ early 20s
+	- men are more likely to get type 1 bipolar
+	- women are more likely to get treatment
+	- linked to many genes but none are specific to bipolar
+	- treatments:
+		- lithium salts
+			- works on the hippocampus
+		- anti-convulsants
+		- antidepressants
+		- anti-psychotics
+		- diet
+		- sleep
+		- omega3
+- Summary
+	- people with major depression find that almost nothing makes them happy
+	- In most cases, depression occurs as a series of episodes
+	-  depression has a genetic predisposition, but no one gene has a strong effect by itself
+		- stress can provoke depression by activating the immune system
+	- depression is associated with decreased activity in the left hemisphere of the cortex
+	- several kinds of antidepressant drugs are in wide use:
+		- tricyclics -> block reuptake of serotonin & catecholamines
+		- SSRIs block reuptake of serotonin
+		- SNRIs block reuptake of both serotonin and norepinephrine
+		- MAOIs block an enzyme that breaks down catecholamines and serotonin. 
+	- antidepressants probably do not produce their benefits simply by increasing synaptic levels of serotonin or any other transmitter
+		- ordinarily they affect synapses quickly but the mood benefits develop over weeks. 
+	- one hypothesis is that antidepressants exert their effects by promoting development of new neurons in the hippocampus, new neurons facilitate new learning that competes with old, unpleasant thoughts. 
+	- most people do not respond quickly to antidepressant drugs, and part of the apparent benefit may be due to a placebo effect or the passage of time
+	- psychotherapy is about as effective as antidepressants. 
+	- psychotherapy is more likely than antidepressant drugs to produce long-lasting benefits
+	- other therapies for depression include exercise, electro-convulsive therapy, altered sleep patterns, and deep brain stimulation
+	- exposure to bright lights is an effective, inexpensive treatment not only for seasonal affective disorder, but also for other major depression
+	- people with bipolar disorder alternate between depression and mania. 
+	- effective therapies for bpd include:
+		- lithium salts 
+		- certain anti-convulsant drugs
+		- consistent sleep schedule 
+###### Schizophrenia
+- Diagnosis
+	- symptoms:
+		- split between the emotional & intellectual aspects of experience
+		- deterioration in everyday functioning
+		- delusions
+		- hallucinations
+		- disorganised speech
+		- grossly disorganised behaviour
+		- weak emotional expression, speech & socialisation
+		- cognitive symptoms
+			- impairments of thoughts and reasoning 
+			- difficulty with understanding abstract concepts
+			- trouble maintaining and focusing attention
+			- memory impairments
+	- limitation of working memory could explain some aspects of schizophrenia
+	- difficult to diagnose
+	- positive symptoms -> behaviours that are present that should be absent
+	- negative symptoms -> behaviours that are absent that should be present
+		- stable over time
+		- difficult to treat
+	- differential diagnosis:
+		- ruling out any other conditions, such as:
+			- substance abuse
+			- brain damage
+			- undetected hearing deficits
+			- Huntington's disease:
+				- hallucinations
+				- delusions
+				- disordered thinking
+				- motor symptoms
+				- genetic disease
+			- nutritional problems
+	- demographic data
+		- 0.5 - 1% of populations
+		- everywhere in the world
+		- more common in cities
+			- unstable social relationships
+			- poverty
+			- air pollution
+			- exposure to toxic substances
+			- less vitamin D
+		- lifetime prevalence more common for men
+		- more severe in men
+	- interesting facts about schizophrenics:
+		- are more likely to have autoimmune diseases
+		- increased risk of colon cancer
+		- decreased risk of:
+			- several other types of cancer
+			- arthritis
+			- allergies
+		- women who have a schizophrenic breakdown during pregnancy usually give birth to daughters
+		- women who have a breakdown shortly after giving birth usually gave birth to sons
+		- characteristic body odour, attributed to the chemical trans-3-methyl-2-hexenoic acid
+			- have decreased ability to smell that chemical
+		- deficits in pursuit eye movements— the ability to keep their eyes on a moving target
+- Genetics
+	- family studies
+		- concordance -> agreement
+			- higher for monozygotic twins (50%) than for dizygotic ones in terms of probability of schizophrenia
+		![[Pasted image 20240528094253.png]]
+	- adopted children who develop schizophrenia:
+		- more common in their biological parents than in adoptive ones
+		- can either help the hypothesis of genetics or prenatal environment
+		- highest chance when biological mother had schizophrenia & adoptive family was severely disordered
+- The Neurodevelopmental Hypothesis:
+	- pre/neonatal influences produce abnormalities in developing brains that leave the brain vulnerable to other disturbances later in life
+	- proof
+		- several kinds of prenatal/early difficulties are linked to later schizophrenia
+		- schizophrenics have minor brain abnormalities that apparently originate early in life
+		- it is plausible that abnormalities of early development could impair behaviour in adulthood
+	- prenatal & neonatal environment:
+		- intermediate risk factors:
+			- crowded cities
+			- toxoplasmosis
+		- low risk factors:
+			- poor nutrition or extreme stress of the mother during pregnancy
+			- premature birth
+			- low birth weight
+			- complication during delivery
+			- head injuries in early childhood
+			- Rh+ kids & Rh- mother (konflikt serologiczny)
+			- season-of-birth defect:
+				- more common for those born in winter
+				- more common further from equator
+				- what causes it:
+					- viral infections, e.g. influenza
+					- mothers got sick in autumn
+	- mild brain abnormalities:
+		- some have less than average amount of grey matter
+		- white matter is reduced
+		- minor abnormalities in subcortical areas
+		- less-than-average blood flow to the brain
+		- 5% smaller brain volume than average
+		- brain areas with consistent signs of abnormality include some that mature slowly, such as the dorsolateral prefrontal cortex
+			- weaker than average connections from the dorsolateral prefrontal cortex to other brain areas
+			- less than normal activity in this area during tasks requiring attention and memory
+		- deficits in memory
+	- long-term course:
+		- we used to think it is progressive -> gets worse over time
+		- now we know that is is not usually the case
+		- some deteriorate, some recover, some get remission
+		- even when further deterioration does occur, it could be a result of drug use (common in people with schizophrenia) rather than a result of schizophrenia itself
+	- early development and later psychopathology
+		- showing problems since childhood
+		- minor problems as a kid -> bigger as an adult
+		- dorsolateral prefrontal cortex takes time to mature
+			- this area show consistent signs of deficits in schizophrenics
+- Treatments
+	- antipsychotic (neuroleptic) drugs & dopamine:
+		- chlorpromazine relieves positive symptoms but not for everyone
+		- 2 chemical families:
+			- phenothiazines
+			- butyrophenones
+				- haloperidol
+		- blocking dopamine synapses (especially D$_2$ type)
+			- better blockers are more effective for treatment
+		- dopamine hypothesis for schizophrenia:
+			- results from excessive activity at dopamine areas
+		- problems:
+			- dopamine synapses blockers produce their benefits by acting on neurons in the mesolimbocortical system:
+				- neurons that project from the midbrain to the limbic system and prefrontal cortex
+			-  these drugs also block dopamine neurons in the mesostriatal system that projects to the basal ganglia
+			- the effect on the basal ganglia produces tardive dyskinesia:
+				- tremors
+				- other involuntary movements that develop gradually and to varying degrees
+	- 2$^n$$^d$ generation antipsychotic drugs:
+		- reduce the risk of movement problems compared to 1$^s$$^t$ gen
+		- most common ones:
+			- cloapine
+			- amisulpride
+			- risperidone
+			- olanzapine
+			- aripiprazole
+		- less effect on dopamine receptors
+		- antagonise type 5-HT$_2$ more strongly
+		- increase the release of glutamate
+		- side effects;
+			- weight gain
+			- impairment of the immune system
+		- scientists are sure which gen improves the quality of life more
+		- similar effectiveness
+		![[Pasted image 20240528101205.png]]
+	- role of glutamate
+		- glutamate hypothesis:
+			- deficient activity at glutamate synapses in the prefrontal cortex
+			- increased dopamine can produce similar effects to decreased glutamate
+		- further evidence comes from phencyclidine (PCP )/ angel dust:
+			- inhibits NMDA glutamate receptors
+			- bigger dose produces positive & negative symptoms of schizophrenia
+			- PCP & ketamine produce little if any psychotic response in pre-adolescents, similar to schizophrenia
+			- LSD, amphetamine, and cocaine produce temporary schizophrenic symptoms in almost anyone, and the effects are not much worse in people with a history of schizophrenia than in anyone else
+			- PCP produces a relapse for someone who has recovered from schizophrenia.
+		- we can't just inject glutamate to check our hypothesis:
+			- could cause over-stimulation, confusion or damage
+			- possible alternative:
+				- glutamate receptors have a second site that glycine activates to enhance the response to glutamate
+				- a possible approach would be to try to activate the glycine receptor
+		- so far all attempts to treat schizophrenia with drugs aimed at glutamate or glycine have produced only disappointing results
+- Summary
+	- positive symptoms of schizophrenia -> behaviours that are not present in most other people:
+		- hallucinations
+		- delusions
+		- inappropriate emotions
+		- bizarre behaviours
+		- thought disorder
+	- negative symptoms -> normal behaviours absent that should be present:
+		- deficits of:
+			- social interaction
+			- emotional expression
+			- speech
+	- before diagnosing someone with schizophrenia, a therapist needs to rule out:
+		- brain damage
+		- drug abuse
+		- other conditions that could produce similar symptoms
+	- studies of twins and adopted children imply a genetic predisposition to schizophrenia
+		- however, the adoption studies do not distinguish between the roles of genetics and prenatal environment
+	- researchers have identified many genes associated with schizophrenia, but no common gene increases the risk by much
+		- promising hypothesis -> schizophrenia results from new mutations/ micro-deletions of any of the hundreds of genes that are important for brain development. 
+	- according to the neurodevelopmental hypothesis:
+		- either genes or difficulties early in life, often before birth, impair brain development in ways that increase vulnerability to later insults and predispose to behavioural abnormalities beginning in early adulthood
+	- many people with schizophrenia show mild abnormalities of brain development, especially in the temporal and frontal lobes
+		- they also show cognitive deficits that make sense if their frontal and temporal lobes are less than fully functional
+	- most people with schizophrenia do not continue deteriorating throughout life
+		- some recover
+		- some remain troubled throughout life
+		- some alternate between remission and relapse
+		- although the brain shows abnormalities during the first episode of schizophrenia, most people show little or no increase in those abnormalities as time passes
+	- parts of the prefrontal cortex are very slow to mature & it is plausible that early disruption of those areas might produce behavioural symptoms that manifest as schizophrenia in young adults
+	- according to the dopamine hypothesis:
+		- schizophrenia is due to excess dopamine activity
+		- drugs that block dopamine synapses reduce the positive symptoms of schizophrenia
+		- drugs that increase dopamine activity induce the positive symptoms. 
+	- prolonged use of antipsychotic drugs may produce tardive dyskinesia, a movement disorder.
+		- Second generation antipsychotic drugs reduce the risk of it
+	- according to the glutamate hypothesis
+		- part of the problem is deficient glutamate activity
+	- Phencyclidine:
+		- blocks NMDA glutamate synapses
+		- produces both positive and negative symptoms of schizophrenia
+			- especially in people predisposed to schizophrenia. 
+##### Autism Spectrum Disorders
+- symptoms &  characteristics:
+	- combines autism & Asperger's
+		- we don't use the latter anymore
+	- more common in boys but more severe in girls
+		- maybe because the diagnosis is shit
+	- common symptoms:
+		- Deficits in social and emotional exchange 
+		- Deficits in gestures, facial expressions, and other nonverbal communication
+		- Stereotyped behaviours, such as repetitive movements 
+		- Resistance to a change in routine
+		- Unusually weak or strong responses to stimuli, such as indifference to pain or a panicked reaction to a sound
+	- additional symptoms:
+		- epilepsy
+		- anxiety
+		- poor coordination
+		- deficits in:
+			- attention
+			- sleep
+		- avoiding eye contact
+			- social cues don't attract their attention
+	- develop narrow skills and excel at them
+	- better at detecting visual motion
+- genetics & other causes:
+	- there are genes linked to it but no common one with a large effect
+	- we can figure out if the genetic mutation comes from a mother/father
+	- prenatal environment has an impact
+	- consuming folic acid decreases a chance of birthing a child with autism
+	- big head in little children
+- treatments:
+	- risperidone sometimes decreases symptoms but there are consequences
+	- behavioural treatments for the stereotyped behaviours
+	- cognitive behavioural therapy
+- summary:
+	- autism spectrum disorder is diagnosed more often now than in the past.
+	- the severity of symptoms varies greatly. 
+	- primary symptoms include a deficiency of social behaviour and communication, including nonverbal communication.
+	- many individuals also have repetitive stereotyped behaviours. 
+	- no one gene is responsible for this condition. 
+	- In some cases, it relates to new mutations or micro-deletions, including one mutation to a mitochondrial gene.
+	- difficulties in the prenatal environment also contribute. 
+		- some cases result because the mother during pregnancy produced certain antibodies that attack brain proteins.
+	- consuming folic acid decreases the probability of having an autistic child.
+	- behavioural treatments are the only effective approach to treating social and communicative deficits.
+	- many parents try fad treatments of doubtful effectiveness.
+
+
+#itb [[itb]] 

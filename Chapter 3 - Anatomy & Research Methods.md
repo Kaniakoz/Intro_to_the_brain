@@ -1,0 +1,568 @@
+###### ==Structure of the vertebrate nervous system==
+- terminology to describe the nervous system:
+	- Central Nervous System
+		- brain + spinal cord
+	- Peripheral nervous system
+		- connects brain & spinal cord to the rest of the body
+		- somatic
+			- controls voluntary muscles
+			- conveys sensory information to CNS
+		- autonomic:
+			- controls involuntary muscles
+			- sympathetic
+				- expends energy
+			- parasympathetic
+				- conserves energy
+	- directions in brain
+	![[Pasted image 20240429112630.png]]
+	-  terms:
+		- Dorsal
+			- toward the back, away from the ventral (stomach) side. The top of the human brain is considered dorsal because it has that position in four-legged animals.
+		- Ventral 
+			- toward the stomach, away from the dorsal (back) side
+		- Anterior 
+			- toward the front end
+		- Posterior
+			- toward the rear end
+		- Superior 
+			- above another part
+		- Inferior 
+			- below another part
+		- Lateral 
+			- toward the side, away from the midline
+		- Medial 
+			- toward the midline, away from the side
+		- Proximal
+			- located close (approximate) to the point of origin or attachment
+		- Distal 
+			- located more distant from the point of origin or attachment
+		- Ipsilateral 
+			- on the same side of the body (e.g., two parts on the left or two on the right)
+		- Contralateral 
+			- on the opposite side of the body (one on the left and one on the right)
+		- Coronal plane (or frontal plane)
+			- a plane that shows brain structures as seen from the front
+		- Sagittal plane 
+			- a plane that shows brain structures as seen from the side
+		- Horizontal plane (or transverse plane)
+			- a plane that shows brain structures as seen from above
+- parts of the nervous system:
+	- Lamina 
+		- a row or layer of cell bodies separated from other cell bodies by a layer of axons and dendrites
+	- Column 
+		- a set of cells perpendicular to the surface of the cortex, with similar properties
+	- Tract
+		- a set of axons within the CNS, also known as a projection. If axons extend from cell bodies in structure A to synapses onto B, we say that the fibers “project” from A onto B.
+	- Nerve 
+		- a set of axons in the periphery, either from the CNS to a muscle or gland or from a sensory organ to the CNS
+	- Nucleus 
+		- a cluster of neuron cell bodies within the CNS
+	- Ganglion 
+		- a cluster of neuron cell bodies, usually outside the CNS (as in the sympathetic nervous system)
+	- Gyrus (pl.: gyri) 
+		- a protuberance on the surface of the brain 
+	- Sulcus (pl.: sulci) 
+		- a fold or groove that separates one gyrus from another
+	- Fissure 
+		- a long, deep sulcus
+- the spinal cord
+	![[Pasted image 20240429154950.png]]
+	- the part of the CNS within the spinal column.
+	- communicates with all the sense organs & muscles except those of the head
+	- segmented structure:
+		- each segment has a sensory nerve and a motor nerve on both the left & right side
+	- the entering dorsal roots (axon bundles) carry sensory information, 
+	- the exiting ventral roots carry motor information. 
+	- the cell bodies of the sensory neurons are in clusters of neurons outside the spinal cord -> dorsal root ganglia
+	- neuron clusters:
+		- outside the CNS -> a ganglion
+		- inside the CNS -> a nucleus.) 
+	- cell bodies of the motor neurons are inside the spinal cord
+	- neurons from the grey matter of the spinal cord send axons to the brain/to other parts of the spinal cord through the white matter, containing myelinated axons
+	- each segment of the spinal cord sends sensory information to the brain and receives motor commands from the brain
+		- all that information passes through tracts of axons in the spinal cord
+		- if the spinal cord is cut at a given segment, the brain loses sensation & motor control from that segment and below. 
+- the autonomic nervous system
+	![[Pasted image 20240429155029.png]]
+	- neurons that receive information from and send commands to organs 
+	- sympathetic nervous system:
+		- a network of nerves that prepare the organs for a burst of vigorous activity
+		- consists of chains of ganglia just to the left and right of the spinal cord’s central regions 
+			- the thoracic and lumbar areas)
+		- sympathetic axons prepare the organs for “fight or flight,”
+			- increasing breathing and heart rate 
+			- decreasing digestive activity.
+		- sympathetic ganglia are closely linked, so they often act as a single system “in sympathy” with one another, although certain events activate some parts more than others
+		- sweat glands, the adrenal glands, the muscles that constrict blood vessels, and the muscles that erect the hairs of the skin have sympathetic input but no parasympathetic input
+	- parasympathetic nervous system
+		- “rest and digest” system
+		- facilitates vegetative, non-emergency responses.
+		- opposite actions to sympathetic stuff + promotes sexual arousal
+		- also known as the craniosacral system because it consists of the cranial nerves and nerves from the sacral spinal cord
+		- long preganglionic axons extend from the spinal cord to parasympathetic ganglia close to each internal organ
+		- shorter postganglionic fibres extend from the parasympathetic ganglia into the organs themselves
+		- because the parasympathetic ganglia are not linked to one another, they act more independently than the sympathetic ones
+		- release acetylcholine onto the organs. 
+	- Because the two systems use different transmitters, certain drugs excite or inhibit one system or the other. 
+	- sympathetic and parasympathetic systems produce contrary effects, but both are constantly active to varying degrees, and many stimuli arouse parts of both systems 
+- the hindbrain
+	![[Pasted image 20240429155110.png]]
+	 ![[Pasted image 20240429155128.png]]
+	- the posterior part of the brain
+	- consists of:
+		- medulla (medulla oblongata):
+			- enlarged extension of the spinal cord
+			- the head & the organs connect to the medulla & adjacent areas by 12 pairs of cranial nerves (one of each pair on the right & one on the left)
+			- cranial nerves originating there control vital reflexes:
+				- breathing
+				- heart rate
+				- vomiting
+				- salivation
+				- coughing
+				- sneezing
+				- etc
+				- types of cranial nerves:
+					- I. Olfactory
+						- Smell
+					- II. Optic 
+						- Vision
+					- III. Oculomotor 
+						- Control of eye movements; pupil constriction
+					- IV. Trochlear 
+						- Control of eye movements
+					- V. Trigeminal 
+						- Skin sensations from most of the face
+						- control of jaw muscles for chewing&swallowing
+					- VI. Abducens
+						- Control of eye movements
+					- VII. Facial 
+						- Taste from the anterior two thirds of the tongue
+						- control of facial expressions, crying, salivation, and dilation of the head’s blood vessels
+					- VIII. Statoacoustic 
+						- Hearing
+						- equilibrium
+					- IX. Glossopharyngeal 
+						- Taste and other sensations from throat and posterior third of the tongue
+						- control of swallowing, salivation, throat movements during speech
+					- X. Vagus 
+						- Sensations from neck and thorax
+						- control of throat, oesophagus & larynx
+						- parasympathetic nerves to stomach, intestines, and other organs
+					- XI. Accessory 
+						- Control of neck and shoulder movements 
+					- XII. Hypoglossal 
+						- Control of muscles of the tongue
+			- many opiate receptors there (dangerous!)
+		- pons:
+			- anterior and ventral to the medulla
+			- contains nuclei for several cranial nerves
+			- axons from each half of the brain cross to the opposite side of the spinal cord -> enabling contralateral control 
+		- cerebellum:
+			- large hindbrain structure with many deep folds
+			- control of movement
+			- critical for some types of learning & conditioning
+			- balance + coordination **& beyond**
+		- damage to the cerebellum:
+			- trouble shifting attention back and forth between auditory and visual stimuli
+			- difficulty with timing, such as judging whether one rhythm is faster than another
+	- the brainstem:
+		- medulla 
+		- pons
+		- midbrain
+		- certain central structures of the forebrain
+- the midbrain
+	 ![[Pasted image 20240429155149.png]]
+	- early in development it is in the middle of the brain, although in adult mammals it is dwarfed and surrounded by the forebrain.
+	- more prominent in reptiles, amphibians, and fish
+	- tectum -> roof of the midbrain
+	- superior & inferior colliculus -> the swellings on each side of the tectum
+		- important for sensory processing
+			- inferior -> hearing 
+			- superior -> vision
+		- tegmentum
+			- under the tectum
+			- the intermediate level of the midbrain.
+		- substantia nigra
+			- gives rise to a dopamine-containing pathways that facilitate readiness for the movement.
+- the forebrain
+	 ![[Pasted image 20240429155212.png]]
+	 ![[Pasted image 20240429155237.png]]
+	![[Pasted image 20240429155259.png]]
+	- the most prominent part of the mammalian brain
+	- consists of two cerebral hemispheres (one on the left and one on the right):
+		- each hemisphere is organised to receive sensory information, mostly from the contralateral side of the body
+		- controls muscles, mostly on the contralateral side
+	- cerebral cortex -> the outer portion is the cerebral cortex:
+		- under the cerebral cortex are other structures:
+			- thalamus
+			- basal ganglia
+	- limbic system:
+		- forms a border around the brainstem
+		- includes the olfactory bulb, hypothalamus, hippocampus, amygdala, and cingulate gyrus of the cerebral cortex
+		- amygdala:
+			- part of the circuit that is most central for evaluating emotional information, especially with regard to fear
+	- thalamus:
+		- together with hypothalamus form the diencephalon:
+			- a section distinct from the telencephalon:
+				- the rest of the forebrain.
+		- a pair of structures (left & right) in the centre of the forebrain
+		- most sensory information goes first to the thalamus, which processes it and sends output to the cerebral cortex
+			- exception -> olfactory information:
+				- goes from the olfactory receptors to the olfactory bulbs & then directly to the cerebral cortex
+		- many nuclei of the thalamus receive their input from a sensory system, such as vision, & transmit information to a single area of the cerebral cortex
+			- cerebral cortex sends information back to the thalamus, prolonging and magnifying certain kinds of input & focusing attention on particular stimuli.
+	- hypothalamus & pituitary gland:
+		- hypothalamus:
+			- small area near the base of the brain just ventral to the thalamus
+			- has widespread connections with the rest of the brain
+			- contains distinct nuclei
+			- conveys messages to the pituitary gland, altering its release of hormones. 
+			- damage to any hypothalamic nucleus:
+				- abnormalities in motivated behaviours:
+					- feeding
+					- drinking
+					- temperature regulation
+					- sexual behaviour
+					- fighting
+					- activity level
+		- pituitary gland:
+			- endocrine gland attached to the base of the hypothalamus
+			- in response to messages from the hypothalamus, synthesises hormones that the blood carries to organs through out the body.
+	- basal ganglia:
+		- a group of subcortical structures lateral to the thalamus
+		- include three major structures: 
+			- caudate nucleus
+			- putamen
+			- globus pallidus
+			- some authorities include other structures as well
+		- damage to the basal ganglia impairs movement in e.g. Parkinson’s or Huntington’s diseases
+		- integrate motivational & emotional behaviour to increase the vigour of selected actions
+		- critical for learned skills, habits & other types of learning that develop gradually with extended experience 
+	- basal forebrain (nucleus basalis):
+		- one of the structures on the ventral surface of the forebrain
+		- receives input from the hypothalamus and basal ganglia 
+		- sends axons that release acetylcholine to widespread areas in the cerebral cortex
+		- key part of the brain’s system for arousal, wakefulness, & attention
+		- its inactivity/deterioration causes impairments of attention & intellect for patients with Parkinson’s & Alzheimer’s diseases
+	- hippocampus:
+		- large structure between the thalamus and the cerebral cortex, mostly toward the posterior of the forebrain
+		- critical for certain types of memories, especially memories for individual events
+		- essential for monitoring where you are & where you are going
+- the ventricles
+	![[Pasted image 20240429155355.png]]
+	- four fluid-filled cavities within the brain
+		- each hemisphere contains one of the two large lateral ventricles
+		- toward their posterior, they connect to the third ventricle, positioned at the mid-line, separating the left thalamus from the right
+		- the third ventricle connects to the fourth ventricle in the centre of the medulla. 
+	- cerebrospinal fluid (CSF):
+		- produced by the choroid plexus along the walls of the four ventricles 
+		- clear fluid similar to blood plasma
+		- fills the ventricles, flowing from the lateral ones to the third & fourth
+			- from the fourth ventricle, some of it flows into the central canal of the spinal cord
+			- but more goes into the narrow spaces between the brain and the thin meninges
+				- membranes that surround the brain and spinal cord.
+				- have pain receptors
+				- meningitis (inflammation of the meninges) is painful
+				- swollen blood vessels in the meninges are responsible for the pain of a migraine headache
+		- cushions the brain against mechanical shock when the head moves
+		- provides buoyancy -> supports the weight of the brain
+		- provides a reservoir of hormones & nutrition for the brain & spinal cord
+		- obstructed CSF flow:
+			- CSF accumulates within the ventricles or in the subarachnoid space, increasing pressure on the brain
+			- for infants the skull bones spread, causing hydrocephalus
+				- an overgrown head.
+- summary
+	- The vertebrate nervous system has two main divisions:
+		- central nervous system
+		- peripheral nervous system
+	- Each segment of the spinal cord has a sensory nerve and a motor nerve on both the left and right sides. 
+	- Spinal pathways convey information to the brain.
+	- The sympathetic nervous system activates the body’s internal organs for vigorous activities. 
+	- The parasympathetic system promotes digestion and other nonemergency processes. 
+	- The central nervous system consists of the spinal cord, the hindbrain, the midbrain, and the forebrain. 
+	- The hindbrain consists of the medulla, pons, and cerebellum:
+		- The medulla and pons control breathing, heart rate, and other vital functions through the cranial nerves. 
+		- The cerebellum contributes to movement, timing short intervals, and certain types of learning and conditioning. 
+	- The cerebral cortex receives its sensory information, except for olfaction, from the thalamus. 
+	- The subcortical areas of the forebrain include the thalamus, hypothalamus, pituitary gland, basal ganglia, and hippocampus. 
+	- The cerebral ventricles contain fluid that provides buoyancy and cushioning for the brain. 
+###### ==The cerebral cortex==
+- in general:
+	- most prominent part of the mammalian brain
+	- grey matter on the outer surface
+	- white matter -> axons from grey extending inward
+	- neurons in each hemisphere communicate with neurons in the corresponding part of the other hemisphere through corpus callosum & the smaller anterior commissure 
+		- several other commissures link subcortical structures
+	- brains differ between different mammals
+- organisation of the cerebral cortex
+	![[Pasted image 20240430110000.png]]
+	![[Pasted image 20240430110016.png]]
+	![[Pasted image 20240430110035.png]]
+	- we focus on relationship between structure & function
+		- cause there are too many differences on microscopic level
+	- contains up to 6 different laminae:
+		- layers of cell bodies that are parallel to the surface of the cortex and separated from each other by layers of fibres
+		- vary in thickness and prominence from one part of the cortex to another
+		- a given lamina may be absent from certain areas
+		- Lamina V:
+			- sends long axons to the spinal cord and other distant areas
+			- thickest in the motor cortex, which has the greatest control of the muscles.
+		- Lamina IV
+			- receives axons from the sensory nuclei of the thalamus
+			- prominent in the sensory areas of the cortex (visual, auditory, and somatosensory)
+			- absent from the motor cortex
+	- cells of the cortex are also organised into columns of cells perpendicular to the laminae
+		- the cells within a given column have similar properties to one another
+		- if one cell in a column responds to touch on the palm of the left hand, then the other cells in that column do, too
+		- if one cell responds to a horizontal pattern of light at a particular location, then other cells in the column respond to the same pattern in nearby locations.
+- the occipital lobe:
+	- at the posterior (caudal) end of cortex
+	- main target for visual information
+	- primary visual cortex/striate cortex:
+		- the posterior pole of the occipital lobe
+		- striped appearance in cross section
+		- destruction of any part of the striate cortex causes cortical blindness in the related part of the visual field
+			- extensive damage to the striate cortex of the right hemisphere causes blindness in the left visual field (from viewer's perspective)
+			- a person with cortical blindness has:
+				- normal eyes & pupillary reflexes
+				- no conscious visual perception
+				- no visual imagery (not even in dreams). 
+		- eyes provide the stimulus, but the visual cortex provides the experience
+- the parietal lobe:
+	- between the occipital lobe and the central sulcus (a deep groove in the surface of the cortex)
+	- postcentral gyrus/primary somatosensory cortex:
+		- just posterior to the central sulcus
+		- receives sensations from:
+			- touch receptors
+			- muscle-stretch receptors
+			- joint receptors
+		- includes four bands of cells parallel to the central sulcus
+			- separate areas along each band receive simultaneous information from different parts of the body
+			- two of the bands receive mostly light-touch information:
+			- one receives deep-pressure information
+			- one receives a combination of both 
+			- the postcentral gyrus represents the body four times
+	- monitors all the information about eye, head, and body positions and passes it on to brain areas that control movement
+	- essential not only for spatial but also numerical information
+- the temporal lobe
+	- the lateral portion of each hemisphere, near the temples
+	- the primary cortical target for auditory information
+	- the human temporal lobe (usually the left one) is essential for understanding spoken language
+	- also contributes to complex aspects of vision
+		- perception of movement
+		- recognition of faces
+	- when psychiatric patients report hallucinations, brain scans detect much activity in the temporal lobes
+	- important for emotional and motivational behaviors
+	- results of damage:
+		- set of behaviors known as the Klüver-Bucy syndrome
+			- previously wild and aggressive monkeys fail to display normal fears and anxieties 
+			- they put almost anything they find into their mouths and attempt to pick up snakes and lighted matches
+			- we don't really know why:
+				- maybe it is no longer afraid (an emotional change)	
+				- maybe it no longer recognises what a snake is (a cognitive change)
+- the frontal lobe
+	- contains the primary motor cortex & the prefrontal cortex
+	- extends from the central sulcus to the anterior limit of the brain
+	- precentral gyrus:
+		- the posterior portion of the frontal lobe
+		- specialised for the control of fine movements, such as moving a finger
+		- separate areas responsible for different parts of the body, mostly on the contralateral (opposite) side but also with slight control of the ipsilateral (same) side
+		- no area in the motor cortex controls just a single muscle
+			- if two muscles usually move together, then the brain areas that control one of them largely overlap those that control the other one 
+	- prefrontal cortex:
+		- most anterior portion of the frontal lobe
+		- species with a larger cerebral cortex devote a larger percentage of it to the prefrontal cortex
+		- neurons there:
+			- have huge numbers of synapses
+			- integrate an enormous amount of information.
+		- functions:
+			- has 3 major regions:
+				- posterior:
+					- movement
+				- middle:
+					- working memory
+					- cognitive control
+					- emotional reactions
+				- anterior:
+					- making decisions
+					- evaluating which of several courses of action is likely to achieve the best outcome
+					-  people with prefrontal cortical damage often make decisions that seem impulsive, because they failed to weigh all the likely pros and cons.
+- lobotomies:
+	- absolute shitshow
+	- surgical disconnection of the prefrontal cortex from the rest of the brain
+	- of damaging the prefrontal cortex/cutting its connections to the rest of the cortex
+	- common consequences:
+		- apathy
+		- loss of the ability to plan & take initiative
+		- memory disorders
+		- distractibility
+		- a loss of emotional expressions
+		- people lost their social inhibitions:
+			- ignoring the rules of polite, civilised conduct
+			- acted impulsively because they failed to calculate adequately the probable outcomes of their behaviours.
+- how do the parts work together
+	- binding problem/large-scale integration system:
+		- how do various brain areas produce a perception of a single object?
+		- relatively few cells combine one sense with another
+			- even when they do, they don’t fully answer the question of how we bind sensory information together
+		- although researchers cannot fully explain binding, they know what is necessary for it to occur: 
+			- if you perceive two sensations as happening at the same time and in approximately the same place
+- summary:
+	- brain size varies among mammals but the overall organisation is similar
+	- the cerebral cortex has six laminae of neurons
+	- a given lamina may be absent from certain parts of the cortex
+	- the cortex is organised into columns of cells arranged perpendicular to the laminae
+	- the occipital lobe is primarily responsible for vision
+		- damage to its part leads to blindness in part of the visual field
+	- the parietal lobe processes body sensations
+	- the postcentral gyrus contains four representations of the body
+	- the temporal lobe contributes to:
+		- hearing
+		- complex aspects of vision
+		- processing of emotional information
+	- the frontal lobe includes the prefrontal cortex & precentral gyrus, which controls fine movements
+	- the prefrontal cortex is important for:
+		- planning actions
+		- working memory
+		- certain aspects of emotion
+		- decision making
+	- the binding problem is the question of how we connect activities in different brain areas, such as sights and sounds
+	- binding requires perceiving that two aspects of a stimulus ocurred at the same place at the same time
+###### ==Research methods==
+- general methods:
+	- examine the effects of brain damage:
+		- after damage/temporary inactivation, what aspects of behaviour are impaired?
+	- examine the effects of stimulating a brain area:
+		- ideally, if damaging some area impairs a behaviour, stimulating that area should enhance the behaviour
+	- record brain activity during behaviour
+	- correlate brain anatomy with behaviour:
+		- do people with some unusual behaviour also have unusual brains?
+		- if so, in what way?
+- effects of brain damage:
+	- different region, different consequences 
+	- difficult to research -> researchers often turn to producing carefully localised damage in laboratory animals:
+		- ablation -> removal of a brain area, generally with a surgical knife
+		- researchers sometimes make a lesion (damage), by means of a stereotaxic instrument:
+			- a device for the precise placement of electrodes in the brain
+		- by consulting a stereotaxic atlas (map) of a species’ brain, a researcher aims an electrode at the desired position relative to landmarks on the skull
+		- the researcher anaesthetises an animal, drills a small hole in the skull, inserts the electrode, lowers it to the target, and passes an electrical current just sufficient to damage that area
+		- after the death of the animal, someone takes slices of its brain, applies stains, and verifies the actual location of the damage
+		- production of a sham lesion to prove the deficit wasn’t caused by anaesthetising the animal, drilling a hole in its skull, and lowering an electrode to this target
+			- performing all the same procedures except for passing the electrical current
+			- any behavioural difference between the two groups must result from the lesion and not the other procedures
+		- researchers use this method less often today than in the past
+			- instead, they might inject a chemical that kills neurons, or disables them temporarily, without harming the passing axons
+			- they can also inject a chemical that disables a particular type of synapse
+			- another option is the gene-knockout approach:
+				- directs a mutation to a gene that regulates one type of cell, transmitter, or receptor.
+	- transcranial magnetic stimulation (TMS):
+		- the application of magnetic stimulation to a portion of the scalp
+		- can stimulate neurons in the area below the magnet, if the stimulation is sufficiently brief and mild
+		- with stronger stimulation it inactivates the neurons, producing a “virtual lesion” that outlasts the magnetic stimulation itself 
+		- enables researchers to study behaviour with some brain area active, then inactive, and then active again
+- effects of brain stimulation:
+	- if brain damage impairs some behaviour, stimulation should increase it
+	- the old-fashioned way:
+		- insert an electrode into an animal’s brain and deliver brief, mild currents to stimulate one area or another
+		- limited value:
+			- a given area has many types of neurons with varying functions
+			- the electrical current stimulates all of them, as well as passing axons
+	- optogenetics:
+		- using light to control a limited population of neurons
+		- how it works:
+			- one protein reacts to light by opening a Na channel:
+				- exciting the neuron
+			- another reacts by opening a Cl channel:
+				- producing inhibition
+			- developing viruses that insert one of these proteins into a certain type of neuron, or even to just one part of the neuron
+			- developing very thin optical fibres that can shine just the right amount of light onto neurons in a narrowly targeted brain area
+		- an investigator can control the excitation or inhibition of one type of neuron in a small brain area with millisecond accuracy
+- recording brain activity:
+	- on rare occasions, researchers insert an electrode into a human neuron to record its activity
+	- electroencephalograph (EEG):
+		- records electrical activity of the brain through electrodes attached to the scalp 
+		- electrodes glued to the scalp measure the average activity at any moment for the population of cells under the electrode
+		- the output is amplified and recorded
+		- useful for:
+			- distinguishing between wakefulness and various stages of sleep
+			- help with the diagnosis of epilepsy
+			- record brain activity in response to a stimulus
+				- evoked potentials
+				- evoked responses
+	- magnetoencephalograph (MEG):
+		- similar to EEG
+		- measures the faint magnetic fields generated by brain activity
+		- identifies the approximate location of activity to within a centimetre
+		- temporal resolution:
+			- showing changes from one millisecond to the next
+		- can:
+			- identify the times at which various brain areas respond
+			- trace a wave of brain activity from its point of origin to the other areas that process it
+	- Positron-emission tomography (PET):
+		- provides a high-resolution image of activity in a living brain 
+		- recording the emission of radioactivity from injected chemicals
+		- the person receives an injection of glucose/other chemical containing radioactive atoms
+		- when a radioactive atom decays, it releases a positron that immediately collides with a nearby electron, emitting two gamma rays in opposite directions
+		- the person’s head is surrounded by a set of gamma ray detectors
+		- when two detectors record gamma rays at the same time, they identify a spot halfway between those detectors as the point of origin of the gamma rays
+		- a computer uses this information to determine how many gamma rays came from each spot in the brain and therefore how much of the radioactive chemical is located in each area
+		- the areas with the most radioactivity are presumably the ones with the most active neurons.
+		- use radioactive chemicals with a short half-life
+		- drawbacks:
+			- expensive
+			- exposing the brain to radioactivity
+			- usually replaced with functional magnetic resonance imaging (fMRI)
+	- MRI:
+		- record the energy released by water molecules after removal of a magnetic field
+		- fMRI:
+			- a modified version of MRI based on hemoglobin instead of water
+			- detecting the amount of hemoglobin with oxygen
+			- when a brain area becomes more active:
+				- blood vessels dilate to allow more blood flow to the area
+				- as the brain area uses oxygen, the percentage of hemoglobin with oxygen decreases
+			- method produces spectacular pictures, but difficulties arise when we interpret the results
+			- what we got from fMRI:
+				- brain areas responsible for pain really do decrease their response after getting a placebo
+				- most memory tasks activate a wide array of brain areas to varying degrees
+				- “mind wandering” activates diffuse areas called the brain’s default system
+					- same areas are also active when people recall past experiences or imagine future ones
+- correlating brain anatomy with behaviour:
+	- used to use phrenology:
+		- skull's shape 
+		- proved to be shit
+	- computerised axial tomography (CT/CAT scan):
+		- a physician injects a dye into the blood to increase contrast in the image
+		- then places the person’s head into a CT scanner
+		- X-rays are passed through the head and recorded by detectors on the opposite side
+		- the CT scanner is rotated slowly until a measurement has been taken at each angle over 180 degrees
+		- a computer constructs images of the brain based on the measurements
+		- helps detect tumours & other structural abnormalities.
+	- magnetic resonance imaging (MRI):
+		- MRI device applies a powerful magnetic field to align all the axes of rotation, and then tilts them with a brief radio frequency field
+		- when the radio frequency field is turned off, the atomic nuclei release electromagnetic energy as they relax and return to their original axis
+		- by measuring that energy, MRI devices form an image of the brain
+		- shows anatomical details smaller than a millimetre in diameter
+		- drawback -> person must lie motionless in a confining, noisy apparatus
+		- usually not suitable for children & anyone who fears enclosed places
+	- a particular brain area is enlarged in certain types of people:
+		- people with a larger amygdala tend to have more social contacts
+		- extroversion, neuroticism, and conscientiousness correlate significantly with the size of certain areas of the cortex
+		- certain aspects of executive function correlate with the amount of white matter connecting three parts of the prefrontal cortex to other brain areas 
+		- adolescents with a large vocabulary tend to have more than average grey matter in part of the parietal lobe
+		- we need to examine correlations like these with caution
+			- many of the studies have used small, possibly unrepresentative samples
+			- many reports relating brain anatomy to behaviour have been hard to replicate
+- methods of studying brain-behaviour relationships - table:
+	![[Pasted image 20240430120026.png]]
+- summary:
+	- one way to study brain-behaviour relationships is to examine the effects of brain damage
+	- if someone suffers a loss after some kind of brain damage, then that area contributes in some way to that behaviour
+	- if stimulation of a brain area increases some behaviour, presumably that area contributes to the behaviour
+	- optogenetics is a relatively new method that enables researchers to stimulate a particular type of cell at a particular moment
+	- researchers try to understand brain-behaviour relationships by recording activity in various brain areas during a given behaviour
+	- people who differ with regard to some behaviour sometimes also differ with regard to their brain anatomy
+	- MRI is one modern method of imaging a living brain
+	- correlations between behaviour and anatomy should be evaluated cautiously until they have been replicated.
+
+
+#itb [[itb]]

@@ -1,0 +1,441 @@
+##### Learning, memory & memory loss
+- ###### localised representation of memory
+	- classical conditioning
+		- pairing two stimuli changes the response to one of them
+		- process:
+			- experimenter starts by presenting a conditioned stimulus (CS), which initially elicits no response of note
+			- then presents the unconditioned stimulus (UCS), which automatically elicits the unconditioned response (UCR)
+			- after some pairings of the CS and the UCS, the individual begins making a new, learned response to the CS, a conditioned response (CR)
+		- sometimes the CR resembles the UCR, but in some cases, it does not. 
+	- instrumental/operand conditioning:
+		- a response leads to a reinforcer/punishment
+		- reinforcer - event that increases the future probability of the response
+		- punishment - event that suppresses the frequency of the response
+	- classical vs instrumental conditioning:
+		- in instrumental conditioning the individual’s response determines the outcome (reinforcer or punishment)
+		- whereas in classical conditioning the CS and UCS occur at certain times regardless of the individual’s behaviour
+			- behaviour is useful in preparing for the UCS
+	- some cases of learning are difficult to label as classical or instrumental
+		- animals have specialised methods of learning other than classical and instrumental conditioning
+		- the way animals learn varies from one situation to another
+		- most situations:
+			- learning occurs only if the CS & UCS/response & reinforcer occur close together in time
+	- Lashley's search for the engram:
+		![[Pasted image 20240514111557.png]]
+		![[Pasted image 20240514111911.png]]
+		- Pavlov's hypothesis:
+			- doesn't fit all behavioural observations
+			- classical conditioning reflects a strengthened connection between a CS centre and a UCS centre in the brain
+			- strengthened connection lets any excitation of the CS centre flow to the UCS centre,  evoking a response just like the unconditioned response
+		- engram
+			- the physical representation of what has been learned
+		- Lashley thought that:
+			- types of learning don't depend on connections across the cortex
+			- equipotentiality:
+				- all parts of the cortex contribute equally to complex behaviours such as learning
+				- any part of the cortex can substitute for any other
+			- mass action
+				- the cortex works as a whole
+				- more cortex is better
+			- another interpretation:
+				- many brain areas contribute to learning but not necessarily in the same way
+			- his finding got disproved
+	- the modern search for the engram:
+		![[Pasted image 20240514114411.png]]
+		- in cerebellum
+		- lateral interpositus nucleus (LIP)
+- ###### types of memory:
+	- short-term & long-term memory:
+		- differ in capacity
+		- STM:
+			- events that have just occurred
+			- smaller capacity
+			- requires rehearsal
+			- forgotten? gets lost
+		- LTM:
+			- events from further back
+			- a hint might help reconstruct a memory from it
+		- we can consolidate memories from STM to LTM
+	- changing views of consolidation:
+		- time for consolidation varies
+		- emotionally significant memories form quickly -> flashbulb 
+			- arouse the locus coeruleus, which increases:
+				- norepinephrine throughout the cortex
+				- dopamine in the hippocampus
+			- increase secretion of epinephrine & cortisol that activate amygdala & hippocampus
+		- synaptic tag-and-capture:
+			- your brain tags a new, weak memory for later stabilisation if a similar, more important event soon follows it
+	- working memory:
+		- replaces the concept of STM
+- ###### memory loss
+	- forgetting is often good but memory loss is not
+	- Korsakoff's syndrome:
+		- prolonged thiamine deficiency
+		- anterograde amnesia
+		- shrinkage of neurons in dorsomedial thalamus
+			- main source of input from prefrontal cortex
+		- confabulation
+			- filling memory gaps with guesses
+	- Alzheimer's disease:
+		- patients with it learn procedural skills better than facts
+			- they learn new skills but then surprise themselves with their good performance because they don’t remember doing it before
+		- memory fluctuates from time to time, suggesting that part of their problem results from a loss of alertness or arousal
+		- gradually progresses to more serious memory loss, confusion, depression, restlessness, hallucinations, delusions, sleeplessness, and loss of appetite
+		- becomes more common with age
+		- chromosome 21, has a gene linked to many cases of early-onset Alzheimer’s disease
+		-  many genes increase or decrease the risk, but none has a large effect
+		- genes controlling early-onset Alzheimer’s disease cause a protein called amyloid-β to accumulate inside and outside neurons and spread from cell to cell
+			- the protein:
+				- damages axons & dendrites
+				- decreases synaptic input & plasticity
+		- The damaged axons and dendrites cluster into structures called plaques that damage the cerebral cortex, hippocampus, and other areas
+		- many researchers are not convinced that amyloid-$\beta$ by itself explains it
+		- alternative hypothesis:
+			- tau protein:
+				- high levels of amyloid-b cause more phosphate groups to attach to tau proteins
+				- rhe altered tau cannot bind to its usual targets within axons, and so it starts spreading into the cell body and dendrites
+				- areas of cell damage in the brain correlate better with tau levels than with amyloid-b levels
+				- altered tau is principally responsible for tangles:
+					- structures formed from degeneration within neurons
+		- at this point, no drug is highly effective for Alzheimer’s disease
+			- possible explanation
+				- by the time physicians recognize Alzheimer’s, the damage may already be too extensive for any medication to help
+	- infant amnesia:
+		- universal experience that older children and adults remember very little of what happened in their first few years of life
+		- hypotheses:
+			- the development of language
+			- complex reasoning abilities as children grow older
+			- problem:
+				- infant amnesia can be demonstrated in many other species that never develop language
+		- early learning is not forgotten completely, because a reminder can restore an apparently lost memory
+		- What could explain the difficulty of recalling infant memories?
+			- Research with mice points to some changes in the hippocampus:
+				- so far the most plausible explanation for infant amnesia is that the rapid learning in early childhood displaces memories formed in infancy
+					- early in life the hippocampus rapidly forms new neurons and replaces old ones with new ones
+					- formation of new neurons facilitates new learning, but as the new neurons and synapses displace old ones, the new learning weakens the old memories
+					- new learning does not necessarily weaken old learning, particularly in adults but if both the new and old learning depended on new neurons, then a conflict arises
+				- but we are not entirely sure yet
+- ###### summary
+	- Ivan Pavlov suggested that learning depends on the growth of a connection between two brain areas.
+	- Karl Lashley showed that learning does not depend on new connections across the cerebral cortex. 
+	- Richard Thompson found that some instances of classical conditioning take place in small areas of the cerebellum. 
+	- Psychologists distinguish between short-term memory and long-term memory. 
+		- Short-term memory holds only a small amount of information and retains it only briefly unless it is constantly rehearsed.
+	- Working memory, a modern alternative to the concept of short-term memory, stores information that one is currently using. The cortex stores a working memory by occasional bursts of high-frequency oscillations that alternate among many cells. 
+	- Patients with Korsakoff’s syndrome often fill in their memory gaps with confabulations, which they then remember as if they were true.
+	- Alzheimer’s disease is a progressive disease, most common in old age, characterised by impaired memory and attention. Identified genes are responsible for early-onset Alzheimer’s disease, but the more common late-onset condition has a variety of causes.
+	- Alzheimer’s disease is related to deposition of amyloid-$\beta$ protein in the brain, but the exact role of the protein remains uncertain. 
+	- Not only humans but many other species also show infant amnesia, the loss of most early memories. The most promising hypothesis is that the loss is due to rapid formation of new hippocampal neurons that facilitate new learning but also displace old learning.
+
+##### The hippocampus & the striatum
+- ###### memory loss after damage to hippocampus:
+	![[Pasted image 20240516162854.png]]
+	- the whole H.M. story:
+		- normal working memory, unless distracted
+		- severe anterograde amnesia for declarative memory 
+			- difficulty forming new declarative memories
+		- severe loss of episodic memories, including most of those from before the damage
+		- better implicit than explicit memory
+		- nearly intact procedural memory, implying that procedural memory depends on other brain areas
+	- amnesia:
+		- retrograde:
+			- inability to form memories for events that happened before brain damage
+		- anterograde:
+			- inability to form memories for events that happened after brain damage
+	- Theories of the Function of the Hippocampus:
+		- come from:
+			- patients with damage to it
+			- animals
+		- hypotheses about the function of the hippocampus:
+			- critical for declarative memory
+			- relating it to memory for context, reconstructing context:
+				- when people successfully retrieve an episodic memory, activity in and around the hippocampus synchronises with activity in several parts of the cortex, consistent with the idea that the hippocampus is providing the connections that are necessary for recall
+			- episodic memory
+- ###### navigation
+	- hippocampus & nearby areas are important for spatial memory:
+		- hippocampus is essential for remembering locations & spatial orientation
+			- London taxi drivers:
+				- have a larger than average posterior hippocampus 
+				- the longer they had been taxi drivers, the larger their posterior hippocampus
+				- this result suggests actual growth of the adult human hippocampus in response to spatial learning experiences
+	- what we learn from single-cell recordings:
+		- discovery of place cells:
+			- hippocampal neurons tuned to particular spatial locations
+			- responding best when an animal is in a particular place and looking in a particular direction
+			- receive much of their input from the nearby entorhinal cortex
+			- many of the cells at deeper levels respond to a combination of the animal’s location and the direction it is heading
+			- some of the cells respond to the animal’s speed of locomotion instead of its location/direction:
+				- animal determines its location & direction from a combination of inputs from several populations of cells
+				- when an animal moves to a different environment, all the cells reorder themselves to map out the new locations
+	- not only people can imagine the future, at least the near one
+	- episodic memory:
+		- refers to events that occurred in a particular place, with a particular sequence of events over time
+		- a loss of place cells and time cells disrupts many types of memory formation.
+- ###### the striatum
+	- parts of the basal ganglia 
+		- specifically caudate nucleus & putamen
+	- mechanisms for:
+		- gradually learning habits
+		- learning what probably will(not) happen under certain circumstances
+	- gradual, probabilistic learning 
+	- people with Parkinson’s disease have impairments of the striatum
+		- they perform about the same as healthy people at first, because they have an intact hippocampus 
+		- even after many trials, they do not show the gradual improvement that requires the striatum
+		- if they don’t form an explicit, declarative memory, they don’t improve at all
+		- they don’t acquire nonverbal habits
+	- People with amnesia after hippocampal damage perform randomly on the weather task for many trials:
+		- they form no declarative memories
+		- if they continue for a very long time, they show gradual improvement, based on habits supported by the striatum
+	- people without damages:
+		- under conditions of extreme distraction, they too learn slowly, like people with a damaged hippocampus
+	- division of labour between the striatum and other brain areas:
+		- separation is not complete
+		- nearly all learned tasks activate both systems to some extent
+		- a rat’s learning depends mainly on the hippocampus at the start, but comes to depend more on the striatum as the learning becomes better established
+	- striatum vs hippocampus:
+		- striatum
+			- learns gradually over many trials
+			- habits
+			- generally requires prompt feedback
+			- implicit learning
+			- after damage learning of skills and habits gets impaired
+		- hippocampus
+			- can learn in a single trial
+			- flexible responses
+			- sometimes connects information over a delay
+			- explicit learning
+			- after damage declarative memory gets impaired, especially episodic memory
+- ###### other brain areas & memory
+	- most of the brain contributes to learning and memory
+	- damage to parietal lobe:
+		- sparse episodic memory when asked to describe various events from their past
+			-  inability to elaborate on a memory spontaneously
+			- process of associating one piece with another is impaired
+	- damage to anterior temporal cortex;
+		- semantic dementia
+			- loss of semantic memory
+		- anterior temporal cortex:
+			- stores some semantic information
+			- serves as a hub for communicating with other brain areas to bring together a full concept 
+- ###### summary
+	- hippocampus:
+		- especially important for remembering where one is in space and time relative to other items or events
+		- important for rapid storage of an event
+		- contains place cells:
+			- monitoring them shows that animals can imagine travelling in a certain direction
+			- receive input from grid cells in the entorhinal cortex
+				- grid cells respond to a series of locations arranged in a hexagonal grid
+		- theories about it focus on its role in declarative memory and memory for context
+		- people with damage to it:
+			- have great trouble forming new long-term declarative memories, especially episodic ones
+			- have trouble imagining the future
+			- show:
+				- implicit memory
+				- short-term memories
+				- procedural memories
+	- striatum:
+		- part of the basal ganglia
+		- important for:
+			- gradually developing habits
+			- seeing complex patterns that may not be evident on a single trial
+	- In some cases learning depends at first on hippocampus & after much practice gets dependent on striatum. 
+	- The parietal cortex is important for elaborating episodic memories.
+	- The anterior temporal cortex serves as a hub for semantic memories. 
+
+##### Storing information in the nervous system
+- ##### Learning and the Hebbian Synapse
+	- An axon that has successfully stimulated cell B in the past becomes even more successful in the future.
+	- cells that fire together wire together
+		- researchers modified this idea:
+			- neurons that are near each other and fire together wire together
+		- structure of the nervous system determines:
+			- which connections learning can make
+			- how easily it can make them.
+	- Hebbian synapse:
+		- can increase its effectiveness as a result of simultaneous activity in the pre&postsynaptic neurons.
+		- essential for many kinds of associative learning.
+- ###### Single-Cell Mechanisms of Invertebrate Behavior Change
+	- Vertebrate and invertebrate nervous systems are organized differently, but the chemistry of the neuron, the principles of the action potential, the neurotransmitters, and their receptors are the same.
+	- Aplysia as an Experimental Animal
+		- Aplysia -> a marine invertebrate related to the slug
+		- a popular animal for studies of the physiology of learning
+		- has fewer neurons, compared to vertebrates, many of which are large and easy to study
+		- unlike vertebrates, Aplysia neurons are virtually identical from one individual to another so that investigators can replicate one another’s work in detail
+		- habituation in aplysia:
+			- habituation -> is a decrease in response to a repeated stimulus that is accompanied by no change in other stimuli
+			- if we repeatedly stimulate an Aplysia’s gills with a brief jet of seawater, it withdraws at first, but after many repetitions, it stops responding
+			- depends on a change in the synapse between the sensory neuron and the motor neuron.
+		- sensitisation in Aplysia:
+			- sensitisation -> an increase in response to mild stimuli as a result of exposure to more intense stimuli
+			- traced to changes at identified synapses
+			- it is possible to explain one example of behavioural plasticity in terms of molecular events.
+		![[Pasted image 20240517223627.png]]
+- ###### Long-Term Potentiation in Vertebrates
+	- long-term potentiation (LTP)
+	- one or more axons connected to a dendrite bombard it with a rapid series of stimuli
+	- the burst of intense stimulation leaves some of the synapses potentiated for minutes, days, or weeks
+	- properties that make it an attractive candidate for a cellular basis of learning and memory:
+		- specificity:
+			- if some of the synapses onto a cell have been highly active and others have not, only the active ones become strengthened
+			- failure of specificity is one cause of impaired learning
+		- cooperativity:
+			- nearly simultaneous stimulation by two or more axons produces LTP more strongly than does repeated stimulation by just one axon.
+		- associativity:
+			- pairing a weak input with a strong input enhances later response to the weak input
+	- long-term depression (LTD):
+		- prolonged decrease in response at a synapse
+		- occurs for axons that have been less active than others
+		- as one synapse strengthens, another weakens
+	- biochemical mechanisms:
+		- difficulty with determining how LTP or LTD occurs:
+			- each neuron has many tiny synapses, sometimes in the tens of thousands. Isolating the chemical changes at any synapse takes an enormous amount of creative, patient research
+		- discussing LTP in the hippocampus -> it occurs there most readily and where its mechanisms have been most extensively studied
+		- AMPA & NMDA Synapses:
+			- when glutamate massively stimulates AMPA receptors, the resulting depolarization enables glutamate to stimulate nearby NMDA receptors also
+			- stimulation of the NMDA receptors lets calcium enter the cell, where it sets into motion a series of changes that build new glutamate synapses or increase response to glutamate at existing AMPA receptors
+			- after LTP occurs, NMDA receptors revert to their original condition
+			- once LTP has been established, it no longer depends on NMDA synapses
+			- drugs that block NMDA synapses prevent the establishment of LTP, but they do not interfere with the maintenance of LTP that was already established
+			- once LTP occurs, AMPA receptors stay potentiated, regardless of what happens to NMDAs
+		- presynaptic changes:
+			- in many cases, LTP depends on changes in the presynaptic neuron instead or in addition
+			- extensive stimulation of a postsynaptic cell causes it to release a retrograde transmitter that travels back to the presynaptic cell to modify it
+				- in many cases, that retrograde transmitter is nitric oxide (NO)
+				- a presynaptic neuron:
+					- decreases its threshold for producing action potentials
+					- increases its release of neurotransmitter
+					- expands its axon
+					- releases its transmitter from additional sites along its axon
+			-  when both pre and postsynaptic changes contribute to LTP, the result is greater precision and stability of learning
+			- studies have shown that LTP is important for learning and that interfering with LTP interferes with learning
+			- understanding LTP is just one step toward understanding learning
+				- learning requires more than just increasing the response to a stimulus
+				![[Pasted image 20240517223533.png]]![[Pasted image 20240517223515.png]]![[Pasted image 20240517223431.png]]
+- ###### Improving Memory
+	- many drugs that show promise in animal studies have unacceptable side effects when applied to humans
+	- types of medication that does aid memory:
+		- **sometimes**
+		- stimulant drugs:
+			- caffeine
+			- amphetamine
+			- methylphenidate (Ritalin)
+		- some herbs are marketed as memory enhances but proof is shaky
+		- very limited research suggests that flavonoids sometimes improve performance on certain types of memory tasks, at least in older adult
+		- altering gene expression, but each benefit comes with a cost
+			- mice with increased expression of a gene that enhances NMDA receptors show faster learning, but also chronic pain
+			- mice with another variant gene learn complex mazes faster than usual, but are worse than average at learning simple mazes
+			- another type of mouse learns quickly, but at the cost of learning fears quickly and failing to unlearn the fears later
+		- electrical stimulation to parts of the parietal or prefrontal cortex could improve certain types of memory, but always at the cost of impairing a different type of memory
+		- transcranial direct current stimulation:
+			- promising results for treating:
+				- depression
+				- chronic pain
+				- Parkinson’s disease
+				- and other conditions
+				- possibly helps people improve attention and memory
+			- sometimes improves performance on one task while impairing another
+			- can also be dangerous if:
+				- electrodes are improperly placed
+				- duration is too long
+		- behavioural methods to improve memory are still the best bet
+			- study well now
+			- rehearse it later
+			- periodically test yourself
+			- consistent physical exercise 
+			- good nutrition
+			- adequate sleep
+			- stress management
+- ###### summary
+	- Hebbian synapse becomes stronger when the presynaptic neuron releases transmitters in conjunction with an action potential in the postsynaptic neuron. 
+	- Habituation of the gill-withdrawal reflex in Aplysia depends on a mechanism that decreases the release of transmitter from a particular presynaptic neuron. 
+	- Sensitisation of the gill-withdrawal reflex in Aplysia occurs when serotonin blocks potassium channels in a presynaptic neuron and thereby prolongs the release of transmitter from that neuron.
+	- Long-term potentiation (LTP) is an enhancement of response at certain synapses because of a brief but intense series of stimuli delivered to a neuron, generally by two or more axons delivering simultaneous inputs. 
+	- If axons are active at a very slow rate, their synapses may decrease in responsiveness—a process known as long-term depression (LTD).
+	- LTP in hippocampal neurons occurs as follows: Repeated glutamate excitation of AMPA receptors depolarises the membrane. The depolarisation removes magnesium ions that had been blocking NMDA receptors. Glutamate is then able to excite the NMDA receptors, opening a channel for calcium ions to enter the neuron. 
+	- When calcium enters through the NMDA-controlled channels, it activates a protein that sets in motion a series of events that increase receptor response or build additional synapses. These changes increase the later response to glutamate.
+	- At many synapses, LTP relates to increased release of transmitter from the presynaptic neuron, in addition to or instead of changes in the postsynaptic neuron.
+	- At this point no procedure is clearly safe and effective for healthy people hoping to boost memory performance. The best way to improve memory is to learn the material well and practice it.
+##### Intelligence
+- includes:
+	- learning
+	- memory
+	- reasoning
+	- problem solving
+	- all measures of cognitive performance correlate positively with one another
+		- most people who are above average in math, spatial skills, language, logical reasoning, or any other cognitive skill are above average on most of the others also
+		- general intelligence
+			- known as g
+		- the fact that various skills correlate does not necessarily mean that they measure the same thing
+		- the skills dependent on one brain area could correlate with those of another area even if they do not rely on an underlying general ability
+- ###### Brain Size and Intelligence
+	- bigger doesn't really mean better
+	- all mammalian brains have the same organisation, but they differ greatly in size
+	- brain-to-body ration doesn't work either
+	- total number of neurons matters
+		- birds in the crow and parrot families, which have demonstrated impressive problem-solving skills, have as many neurons as a small monkey, because crows’ and parrots’ neurons are so tightly packed
+	- strength of various connections in the brain & all the chemicals affecting long-term potentiation also matter
+	- human data:
+		- measurements based on MRI
+		- most studies find a moderate positive correlation between brain size and IQ score
+		- intelligence scores correlate especially with the surface area of cerebral cortex in the frontal and parietal cortex, but also with certain subcortical areas including the caudate nucleus
+			- surface area is the part of the brain dense with cell bodies, so this result fits with the idea that intelligence depends on the number of neurons
+			- intelligence also correlates with the amount of white matter, so both neurons and the connections among neurons are important
+		- problem: Men on average have about 10 percent larger brains than women but equal IQ
+			- women average more and deeper sulci on the surface of the cortex, especially in the frontal and parietal areas
+			- surface area of the cortex is almost equal for men and women, and therefore the number of neurons is also approximately equal
+			- male and female brains are organised somewhat differently
+				- on average, the parietal and occipital areas of the cortex are thicker in females than in males, whereas several other areas are thicker in males
+				- the pattern of connections differs between the sexes, on average, including stronger connections between the two hemispheres in females
+				- some of the anatomical differences probably relate to behavioural differences
+					- female brains may be organised somewhat differently to produce the same intellectual abilities as the somewhat larger male brains. 
+			- the correlation is certainly not high enough to justify using brain measurements to make any decisions about an individual
+- ###### Genetics and Intelligence
+	- variations in intelligence reflect contributions from both genetic and environmental influences
+	- evidence for a genetic effect includes:
+		- monozygotic twins resemble each other more strongly than do dizygotic twins on tests of:
+			- overall intelligence
+			- specific cognitive abilities
+			- brain volume
+		- monozygotic twins resemble each other even if they are reared in separate homes
+		- heritability increases as people grow older
+		- high-performing people gravitate toward educational opportunities and challenging activities that facilitate whatever genetic predispositions were present
+		- although the IQ scores of adopted children correlate moderately with those of their adoptive parents and adoptive siblings, as they grow older, the correlation with their adoptive relatives generally decreases while the correlation with their biological parents increases
+		- heritability of intellectual performance is lower for people who grow up in impoverished conditions and children who attend lower-quality schools
+	- genetic variations influence how well someone can take advantage of opportunities, but if the opportunities are sparse, a genetic advantage goes to waste
+	- for people within the normal range of intelligence, researchers have identified dozens of gene variations that correlate with measures of intelligence or academic success, but no common variant has a large effect by itself. 
+		- significant heritability, contributions from many genes, but no common gene with a major effect.
+- ###### Brain Evolution
+	- human brains are organised the same way as those of other mammals, especially other primates
+		- same types of neurons
+		- same neurotransmitters
+		- same types of synapses
+		- approximately the same ratio of neurons to glia cells
+		- same ratio of cortex to cerebellum
+		- etc
+	- nearly all the differences between humans and other species are quantitative
+	- brain is a metabolically expensive organ
+		- constitutes 2% of the body’s mass, but consumes 20% of its fuel
+	- some species had to make a choice to either reproduce more or have bigger brains
+	- for our remote ancestors to evolve such large brains, they needed to:
+		- get a great deal of nutrition
+			- ancestors hunted in groups
+			- eating seafood
+		- reduce the energy spent on other functions
+			- upright walking is efficient & saves energy
+			- evolving a smaller digestive tract than other primates 
+			- we have more of the protein that transports glucose into the brain, and less of the protein that transports it into the muscles.
+			- decreased the energy required for reproduction
+			- human life span is unusually long, compensating for the lower frequency of births
+			- cooperation between humans also helps
+- ###### summary
+	- several species have larger brains/brain-to-body ratio, but the humans have more neurons than others
+	- among humans, intelligence has a moderate correlation with brain size, especially with the surface area of certain parts of the cerebral cortex. 
+	- men and women are equal on average in their IQ scores, despite men having a larger brain. 
+		- as women have deeper sulci in the cortex, they have approx the same number of neurons as men
+	- men’s & women’s brains are organised somewhat differently to/prevent differences in behaviour 
+	- heredity & environment contribute to variations in human intelligence
+	- many genes are necessary for normal intelligence & mutations in any can lead to intellectual deficits.
+	- within the normal range of human intelligence, many genes exert small effects
+	- ancient humans were able to evolve a larger brain & more neurons because they needed less energy than other species for locomotion, digestion, and reproduction. 
+
+#itb [[itb]]

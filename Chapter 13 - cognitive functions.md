@@ -1,0 +1,576 @@
+##### Lateralisation and Language
+- The Left and Right Hemispheres
+	![[Pasted image 20240520132834.png]]
+	![[Pasted image 20240520132850.png]]
+	- contralateral connections:
+		- left hemisphere of the cerebral cortex connects to skin receptors and muscles mainly on the right side
+		- right hemisphere connects to skin receptors and muscles mainly on the left side of the body
+		- exception -> both hemispheres control the trunk muscles and facial muscles
+		- left hemisphere sees only the right half of the world, and the right hemisphere sees only the left
+		- each hemisphere gets auditory information from both ears but slightly stronger information from the contralateral ear
+		- we don't know why they evolved like this
+	- taste & smell are not contralateral
+		- each hemisphere gets taste information from both sides of the  tongue and smell information from the nostril on its own side 
+	- left hemisphere is dominant for speech production in more than 95 percent of right-handers and nearly 80 percent of lefthanders
+		- some strongly left-handed people have right-hemisphere dominance for speech
+		- most left-handers have either left-hemisphere control or a mixture of left&right-hemisphere control
+	- right hemisphere does not produce speech but can understand meaningful sentences
+	- lateralisation -> division of labour between the two hemispheres is called lateralisation
+	- left & right hemispheres exchange information through:
+		- corpus calossum
+			- a set of axons 
+			- If you had no corpus callosum:
+				- left hemisphere could react only to information from the right side of your body
+				- right hemisphere could react only to information from the left
+				- allows each hemisphere to receive information from both sides
+				- damage to it gives clear evidence of lateralisation.
+		- anterior commissure
+		- hippocampal commissure
+		- a couple of other small commissures. 
+	- Anatomical Differences between the Hemispheres
+		- one section of the temporal cortex, the planum temporale , is larger in the left hemisphere for 65 percent of people
+		- even 2-month-old children activate the left hemisphere more than the right when they listen to speech, though not when they listen to music
+		- the hemispheres differ from the start
+		- smaller but still significant differences are found between left and right hemispheres of chimpanzees, bonobos, and gorillas
+		- many primates also show a preference for using either their right or left hand, as most humans do 
+		- the specialisation seen in the human brain built upon specialisations already present in our apelike ancestors of long ago.
+- Visual and Auditory Connections to the Hemispheres
+	![[Pasted image 20240520135431.png]]
+	- hemispheres connect to the eyes such that each hemisphere sees the opposite half of the visual world
+	- for species with eyes far to the side of the head:
+		- left eye connects to the right hemisphere
+		- and the right eye connects to the left
+	- visual system for humans
+		- both eyes face forward
+		- both see both halves of the world
+		- each hemisphere is connected to half of each eye
+		- light from the right half of the visual field (what is visible at any moment) strikes the left half of each retina, which connects to the left hemisphere, which therefore sees the right visual field & vice versa
+		- small vertical strip down the centre of each retina, covering about 5 degrees of visual arc, connects to both hemispheres
+		- half of the axons from each eye cross to the opposite side of the brain at the optic chiasm
+	- auditory system:
+		- each ear sends the information to both sides of the brain
+			- any brain area that contributes to localising sounds must compare input from both ears
+		- each hemisphere does pay more attention to the ear on the opposite side
+- The Corpus Callosum and the Split-Brain Operation
+	- damage to the corpus callosum:
+		- prevents the hemispheres from exchanging information
+		- sometimes severed as a treatment for severe epilepsy to prevent epileptic seizures from crossing from one hemisphere to the other
+		- split-brain people:
+			- maintain their intellect and motivation
+			- walk and talk normally
+			- use their hands together on familiar tasks
+			- struggle to use the hands together on tasks that they have not previously practised
+			- can use the two hands independently in ways that other people cannot
+				- spontaneously draw the circles at different speeds
+			- the person could point with the left hand to what the right hemisphere saw, could point with the right hand to what the left hemisphere saw, and could talk about anything the left hemisphere saw, but when the right hemisphere saw something, the person would point to it with the left hand, while saying, “I don’t know what it was. I didn’t see anything.” The talking left hemisphere did not know what the right hemisphere had seen.
+				- occasional exceptions arise to this rule because a small amount of information travels between the hemispheres through several smaller commissures
+	- develops slowly:
+		- that is why certain behaviours of young children resemble those of split-brain adults
+		- likely interpretation -> corpus callosum matures sufficiently between ages 3 and 5 to facilitate the comparison of stimuli between the two hands
+	- at birth both hemispheres are capable of developing speech, but ordinarily the left hemisphere inhibits the development of speech by the right hemisphere. 
+		- if the corpus callosum is damaged, this inhibition cannot occur.
+	- Split Hemispheres: Competition and Cooperation:
+		- first weeks after split-brain surgery:
+			- hemispheres act like separate people sharing one body
+			- such conflicts become rare as time passes
+		- the brain learns to use the smaller connections between the left and right hemispheres
+		- sometimes the hemispheres learn to cooperate
+		- the concept of the interpreter
+				- tendency of the left hemisphere to invent and defend explanations for actions, even when the true causes are unconscious
+				- not limited to split-brain people
+	- The Right Hemisphere
+		- more adept than the left at comprehending spatial relationships
+		- people who have right-hemisphere dominance for speech have left-hemisphere dominance for spatial relationships
+		- more responsive to emotional stimuli than the left
+			- people with damage to the right hemisphere usually fail to understand humor and sarcasm
+			- when the right hemisphere is inactive, people do not experience strong emotions and do not even remember feeling them
+- Avoiding Overstatements
+	- you are not right or left-brained
+	- scientific premises:
+		- hemispheres are specialised for different functions
+		- certain tasks evoke greater activity in one hemisphere or the other
+	- doubtful premise
+		- any individual habitually relies mostly on one hemisphere
+	- most tasks, especially difficult ones, require cooperation by both hemispheres
+- Evolution of Language
+	- nonhuman animals do communicate through visual, auditory, tactile, or chemical displays, but those signals don’t have much flexibility.
+	- human language stands out from other forms of communication because of its:
+		- productivity
+		- ability to improvise new combinations of signals to represent new ideas
+	- chimpanzees:
+		- early attempts to teach chimpanzees to talk failed
+		- chimpanzees vocalise while breathing in.
+		- chimps in the wild communicate with gestures so better results were achieved by teaching them American Sign Language or other visual systems
+		- learned to press keys bearing symbols to type messages on a computer
+		- use of symbols differed from human language in several ways:
+			- seldom used symbols in new, original combinations
+				- symbol use was short on productivity
+			- used symbols mainly to request, seldom to describe
+			- showed at least moderate understanding
+	- bonobos
+		- more promising results 
+		- Bonobos’ social order resembles humans’ in several regards
+			- males and females form strong, sometimes lasting, personal attachments
+			- often copulate face to face
+			- female is sexually responsive on almost any day and not just during her fertile period
+			- males contribute significantly to infant care
+			- adults often share food
+			- stand comfortably on their hind legs
+		- pressing symbols:
+			- each symbol represents a word
+			- tested ape made little progress, her infant son learned just by watching her
+				- when given a chance to use the symbol board, he quickly excelled
+				- researchers noticed that Kanzi understood a fair amount of spoken language
+					- whenever anyone said the word light, Kanzi would flip the light switch
+				- Kanzi and his younger sister, Mulika, developed language comprehension comparable to that of a typical 2- to 2.5-year-old child:
+					- understand more than they can produce
+					- follow unfamiliar, unlikely directions such
+					- use symbols to name and describe objects even when they are not requesting them
+					- occasionally use the symbols to describe past events.
+					- frequently make original, creative requests
+		- why did the experiment work on baby bonobos (**maybe**):
+			- bonobos have more language potential than common chimpanzees
+			- Kanzi and Mulika began language training when young
+			- method of training -> learning by observation and imitation promotes better language understanding than the formal training methods of previous studies
+	- non-primates
+		- Alex the African grey parrot:
+			- kept in a stimulating environment 
+			- taught by:
+				- saying a word to him many times
+				- offering rewards if Alex approximated the same sound
+				- gradually moving on to more complex concepts
+				- using toys
+				- no food rewards
+		- dogs:
+			- one border collie learned the names of over a thousand objects and remembered them over at least 32 months
+				- learned categories such as “toy,” (anything she way allowed to play with)
+				- responded correctly to sentences requiring an understanding of simple grammar
+			- part of dogs’ left hemisphere responds to meaningful words, regardless of the tone of voice
+			- the right hemisphere responds to the intonation, which often indicates emotion
+				- results match the pattern for human brains
+			- what do we learn from studies of nonhuman language abilities?
+				- gain insights into how best to teach language to those who do not learn it easily
+				- indicating that human language evolved from precursors present in other species
+				- thinking more carefully about how to define language
+- How Did Humans Evolve Language?
+	- strong possibility -> language evolved from communication by gestures
+	- theories fall into two categories: 
+		- we evolved it as a by-product of overall brain development
+		- we evolved it as a specialisation
+	- Is Language a By-Product of Intelligence?
+		- humans evolved big brains for other reasons, and language developed as an accidental by-product
+		- problems with this hypothesis:
+			- if language is just a product of brain size, then anyone with a fullsized brain and normal overall intelligence should have normal language but not all do
+			- Could someone with overall intellectual impairment have good language?:
+				- yes, people with Williams syndrome:
+					- the loss of a gene that influences connections in the brain
+					- affected people are poor at:
+						- tasks related to numbers
+						- visuomotor skills
+						- spatial perception
+						- planning
+						- have frequent lapses of attention
+						- have difficulty inhibiting inappropriate responses
+					- many of them speak grammatically and fluently
+						- do not handle language perfectly
+						- their grammar is awkward, like that of someone who learned a second language late in life 
+						- often use fancy words when a common word would work better
+					- indicate that language is not simply a by-product of overall intelligence
+	- Language as a Specialisation
+		- theory that humans have a language acquisition device, a built-in mechanism for acquiring language
+		- most children develop language so quickly and easily that it seems they must have been biologically prepared for this learning.
+		- greater connections of our motor cortex that controls the vocal cords enable more complex and detailed control of sound production
+		- Why did humans evolve language and other species did not?
+			- speculation -> language relates to the long period of dependency in childhood
+	- A Sensitive Period for Language Learning
+		- perhaps we are adapted to learn best during a sensitive period early in life
+		- adults are better than children at memorising the vocabulary of a second language, but children have a great advantage on mastering grammar and especially pronunciation 
+		- learning a second language from the start is different from learning one later
+		- people who grow up speaking two languages from the start, show bilateral activity during speech for both languages, and stronger than average connections between the two hemispheres
+		- people who learn a second language after about age 6 activate just the left hemisphere for both 
+		- studying people who learned no language during early childhood:
+			- children who began sign language while still young learned much better than those who started later
+			- a child who learns a spoken language early can learn sign language later
+			- a deaf child who learns sign language early can learn a spoken language later
+				- with poor pronunciation
+			- a child who learns no language while young is permanently impaired at learning any kind of language
+			- importance of learning language in early childhood
+- Brain Damage and Language
+	![[Pasted image 20240520215219.png]]
+	- Broca's aphasia:
+		- non-fluent aphasia
+		- brain damage impairs language production
+		-  relates to damage in parts of the cortex, thalamus, and basal ganglia.
+		- people with it:
+			- are slow and awkward with all forms of language communication, including:
+				- speaking
+				- writing
+				- gesturing
+				- using sign language
+			- when they speak, their speech is meaningful but sparse
+			- understand most speech, except when the meaning depends on:
+				- items that they omit when speaking
+					- prepositions
+					- word endings
+					- complex grammar
+			- have not totally lost their knowledge of grammar
+			- their comprehension resembles that of intact people who are distracted 
+				- patients with Broca’s aphasia just  rely on logical guesses more often than others do
+			- English speakers with it generally omit:
+				- pronouns
+				- prepositions
+				- conjunctions
+				- auxiliary verbs
+				- quantifiers
+				- tense and number endings
+			- German- or Italian-speaking people with aphasia use more word endings, because they are more essential to the meaning than they are in English
+			- seldom use the closed-class words
+		- relates to language, not the vocal muscles
+		- when you read a word aloud:
+			- looking at the word activates your visual system, which then exchanges information with Broca’s area, which then exchanges information with your motor cortex. 
+		- Impaired Language Production
+		- while you say the word, your motor cortex controls the output, and Broca’s area remains silent. 
+		- Broca’s area helps to organise speech, but it doesn’t produce it
+		- when speaking is a struggle, people leave out the weakest elements
+		- many people in pain speak as if they have Broca’s aphasia
+	- Wernicke’s Aphasia (Fluent Aphasia)
+		- damage in part of the left temporal cortex
+		- patients could speak and write but their language comprehension was poor
+		- caused by damage in and around Wernicke’s area:
+			- near the auditory cortex
+		- poor language comprehension
+		- impaired ability to remember the names of objects
+		- the person can still speak smoothly
+		- the symptoms and brain damage vary
+		- damage generally extends beyond the cortex into the thalamus and basal ganglia
+		- typical characteristics:
+			- articulate speech:
+				- speak fluently, except when pausing to try to think of the name of something
+				- no trouble with prepositions, conjunctions, or grammar.
+			- difficulty finding the right word:
+				- anomia-> difficulty recalling the names of objects
+				- make up names
+				- substitute one name for another
+				- use roundabout expressions
+				- when they do manage to find some of the right words, they might arrange them improperly
+			- poor language comprehension:
+				- trouble understanding:
+					- speech
+					- writing
+					- sign language
+	- comprehension also depends on the connections to other brain areas
+		- when you think about an action word, you imagine doing it
+- Dyslexia
+	- specific impairment of reading in someone with adequate vision, motivation, cognitive skills, and educational opportunity
+	- more common in boys than girls
+	- linked to several identified genes
+	- pertains to a difficulty converting symbols into sounds
+	- abnormalities in the left hemisphere for people with dyslexia
+		- some of them appear very early in life
+	- certain parts of the temporal cortex are larger in the right hemisphere than in the left 
+	- people with dyslexia have many different issues
+	- some distinguish between dysphonetic dyslexia and dyseidetic dyslexia:
+		- many do not fit neatly into either category
+		- dysphonetic:
+			- trouble sounding out words
+			- try to memorise each word as a whole
+			- when they don’t recognise a word, they guess based on context
+		- dyseidetic
+			- fail to recognise a word as a whole
+			- read slowly
+			- have trouble with irregularly spelled words
+	- most but not all people with dyslexia have problems related to hearing, but not the kind of problem that could be corrected with hearing aids:
+		- no trouble carrying on a conversation
+		- poor auditory memory
+		- low accuracy at noting whether two  sequences of tones, separated in time, were the same or different 
+		- problem with how the brain handles auditory information, not a problem with the auditory information itself
+	- weaker than normal connections between the auditory cortex and Broca’s area
+	- trouble detecting the temporal order of sounds
+	- difficulty making Spoonerisms:
+		- trading the first consonants of two words
+	- difficulties when letters are too crowded together
+	- can result from a variety of problems.
+- summary
+	- The left hemisphere controls speech in most people, and each hemisphere controls mostly the hand on the opposite side, sees the opposite side of the world, and feels the opposite side of the body. 
+	- In humans, the left visual field projects onto the right half of each retina, which sends axons to the right hemisphere. The right visual field projects onto the left half of each retina, which sends axons to the left hemisphere. 
+	- After damage to the corpus callosum, each hemisphere can point or gesture to answer questions about the information that reaches it directly. However, because the left hemisphere controls speech in most people, only the left hemisphere of a split-brain person can give vocal answers about what it knows. 
+	- Although the two hemispheres of a split-brain person are sometimes in conflict, they find ways to cooperate and cue each other. 
+	- The right hemisphere is dominant for understanding and producing the emotional inflections of speech and for interpreting other people’s emotional expressions.
+	- Bonobos have made significant progress in understanding language, and so have several other species to varying degrees. 
+	- Evolution of language may have evolved from gestural communication in primates, and mouth gestures may have been especially important. 
+	- The hypothesis that language emerged as a by-product of overall intelligence or brain size faces major problems: 
+		- Some people have normal intelligence but impaired language, and many people with Williams syndrome have nearly normal language despite cognitive impairments. 
+	- The best evidence for a sensitive period for language development is the observation that deaf children learn sign language much better if they start early than if their first opportunity comes later in life. Also, learning a second language in early childhood differs in many ways from learning it later. 
+	- People with Broca’s aphasia (nonfluent aphasia) have difficulty speaking and writing. They find prepositions, conjunctions, and other grammatical connectives especially difficult. They also fail to understand speech when its meaning depends on complex grammar. 
+	- People with Wernicke’s aphasia have trouble understanding speech and recalling the names of objects.
+	- Dyslexia (reading impairment) has many forms, resulting from diverse causes including impaired auditory memory and difficulties with visual attention. 
+##### Conscious and Unconscious Processes
+- The Mind–Brain Relationship
+	- mind–body problem:
+		- What is the relationship between the mind and the brain?
+			- most non-scientists assume dualism:
+				- belief that mind and body exist separately
+				- nearly all current philosophers and neuroscientists reject dualism
+					- dualism conflicts with the law of the conservation of matter and energy: 
+						- matter can transform into energy, and energy can transform into matter, but neither one:
+							- emerges from nothing
+							- disappears into nothing
+							- changes 
+								- exception -> because of influence from other matter or energy
+						- a mind that is not composed of matter or energy could not make anything happen, not even muscle movements
+			- monism:
+				- alternative to dualism
+				- the belief that the universe consists of only one kind of substance
+				- materialism:
+					- everything that exists is material, or physical
+					- eliminative materialism:
+						- mental events don’t exist at all
+						- any folk psychology that includes the concept of mind or mental activity is fundamentally mistaken
+					- alternative version of materialism:
+						- researchers will eventually find a way to explain all psychological experiences in purely physical terms
+				- mentalism: 
+					- only minds really exist
+					- the physical world could not exist unless some mind were aware of it
+					- not really testable
+				- identity position:
+					- mental processes and certain kinds of brain processes are the same thing, just described in different terms
+					- the mind is brain activity
+					- mental activity is what happens in the brain
+				- Can we be sure that monism is correct?
+					- no, but researchers adopt it as the most reasonable working hypothesis, to see what progress they can make on that assumption
+			- you cannot have mental activity without brain activity
+			- you cannot have certain types of brain activity without mental activity
+			- easy problems of consciousness:
+				- questions as the difference between wakefulness and sleep and what brain activity occurs during consciousness
+				- difficult scientifically
+				- easy philosophically
+			- hard problems of consciousness:
+				- why consciousness exists at all
+				- no clear hypothesis to test
+				- best we can do is determine what brain activity is necessary or sufficient for consciousness
+	 - definition of consciousness:
+		-  a cooperative person reports awareness of one stimulus and not another, then he or she was conscious of the first and not the second. 
+		 - doesn't apply to:
+			-  individuals who cannot speak, including infants and nonhuman animals
+			- this is why research on consciousness is limited to cooperative, healthy humans
+	- consciousness and researching it
+		 - masking: 
+			 - a brief visual stimulus is preceded and followed by longer interfering stimuli
+		 - backward masking:
+			 - researchers present just the brief stimulus and a longer one after it
+		- the stimulus initially activates the primary visual cortex in both the conscious and unconscious conditions but activates it more strongly in the conscious condition, because of less interference
+		- in the conscious condition, the activity spreads to additional brain areas, including the prefrontal cortex and parietal cortex, which amplify the signal and reflect it back to the visual cortex
+		- for people with damage to the prefrontal cortex:
+			- a visual stimulus has to last longer before it becomes conscious, relative to other people
+		- the difference in response depending on whether a stimulus is or is not conscious:
+			- becomes apparent 200 ms after onset of the stimulus
+			- reaches maximum at 500 ms
+			- continues for the next 2 to 3 seconds
+		- consciousness of one stimulus inhibited responses to other stimuli at the same time
+		- the stimuli present at any moment compete for your attention
+		- a conscious stimulus synchronises responses for neurons in various brain areas
+			- when you see something and recognise it, it evokes activity precisely synchronised in several brain areas, in the frequency of about 30 to 50 Hz
+				- gamma waves 
+			- consequences of synchronised action potentials:
+				- their synaptic inputs arrive simultaneously at their target cells
+					- producing maximal summation
+		- consciousness of a stimulus depends on the amount & spread of brain activity
+		- becoming conscious of something means that its information takes over more of your brain’s activity.
+		- binocular rivalry & findings from it
+			- as the brain cannot perceive both patterns in the same location, perception alternates between the two
+			- for the average person, each perception lasts about 2 seconds before the other replaces it,
+				- some people switch perceptions faster or slower
+				- the shifts:
+					- demonstrate binocular rivalry
+					- are gradual, sweeping from one side to another
+					- one can voluntarily shift attention to one or the other image, but only to a limited extent
+			- some people see with one eye longer than the other
+			- an emotionally charged image generally holds attention longer than a neutral image
+				- happy faces hold attention longer for someone in a happy mood
+				- scowling faces hold attention longer for someone in a sad mood 
+			- as the first perception fades and the stimulus seen by the other eye replaces it, the first pattern of brain activity fades also, and a different pattern replaces it
+			- conscious stimulus strongly activates much of the brain, virtually taking over brain activity
+			- when the same stimulus is unconscious, it produces weaker and less widespread activity
+			- when someone switched between one perception and the other, the brain response changed first in the occipital cortex, and then spread to the other areas
+	- a word from your own language captures your attention faster than a word from a language you do not understand
+	- we become aware more rapidly of faces and other social stimuli than physically similar nonsocial stimuli, and more rapidly become aware of a signal previously associated with danger than one not paired with danger
+	- if one has a strong interest in something—cars, for example—a picture of that kind of object gains their awareness more readily than it does for other people
+		- if you become aware of sth highly meaningful faster than you do for sth similar but less meaningful, evidently your brain decided the stimulus was meaningful before you became conscious of it
+	- much of brain activity is unconscious
+	- even unconscious activity can influence behavior
+	- consciousness as a threshold phenomenon
+		- several studies suggest that consciousness is a yes–no phenomenon
+			- suggesting that consciousness is a threshold phenomenon
+			- when a stimulus activates enough neurons to a sufficient extent, the activity reverberates, magnifies, and extends over much of the brain
+			- if a stimulus fails to reach that level, the pattern fades awa
+		- another study found that even when people report no consciousness of a stimulus, they could guess with 62 percent accuracy which of two possible stimuli it was
+		- we see the point that stimuli can exert some effect even without conscious perception
+	- timing of consciousness
+		- motion perception -> the second position changed your perception of what occurred before it
+		- we are capable of becoming conscious of something after it is gone.
+			- somehow brain held it in reserve, capable of activating it after the fact.
+- Conscious and Unconscious People
+	- loss of consciousness was marked by decreased overall activity
+		- and especially by decreased connectivity between the cerebral cortex and subcortical areas:
+			- thalamus
+			- hypothalamus
+			- basal ganglia
+	- initial recovery of consciousness depended on increased connectivity between subcortical and cortical areas, and later increases in alertness depended on increased activity in the cortex
+	- a loss of synchrony and connectivity between cortical areas preceded a loss of consciousness 
+	- people in a minimally conscious state respond to at least a few stimuli, although they cannot talk
+	- people in a vegetative state alternate between sleep and greater arousal, but even in their most aroused state they show no purposeful behaviours
+		- some show some cognitive processes, but not many
+- Attention
+	- not synonymous with consciousness, but closely related
+	- you are conscious of only those stimuli to which you direct your attention
+	- inattentional & change blindness:
+		- if something in a complex scene changes slowly, or changes while you blink your eyes, you probably will not notice it unless you are paying attention to the particular item that changes
+	- Brain Areas Controlling Attention:
+		- bottom-up attention
+			- depends on the stimulus
+		- top-down attention
+			- intentional
+			- sometimes overrules bottom-up processes
+			- depends on parts of the prefrontal & parietal cortex
+				- direct attention by facilitating responsiveness in parts of the thalamus, which in turn increase the activation of appropriate areas of the sensory cortex
+		- Stroop effect:
+			- difficulty of ignoring words and saying the colour of ink
+			- when people successfully do so, they enhance the activity in the color-vision areas of the cortex and decrease the activity in the areas responsible for identifying words
+		- ability to resist distraction fluctuates
+		- when activity was enhanced in the middle frontal gyrus (part of the prefrontal cortex) before seeing the stimuli, people did best at resisting distraction 
+			- the importance of the prefrontal cortex in directing attention
+		- Brain damage:
+			- damage to the right hemisphere -> spatial neglect:
+				- tendency to ignore the left side of the body, the left side of objects, much of what they hear in the left ear, and much of what they feel in the left hand, especially in the presence of any competing sensation from the right side
+				- some patients with neglect also show deviations when estimating the midpoint of a numerical range
+				- forgetting more statements about the past than about the future
+					- suggesting neglect of things imagined to be toward the left
+				- some neglect patients have sensory losses
+					- in many cases, the main problem is loss of attention rather than impaired sensation
+				- techniques to help increase attention to the neglected side:
+					- help briefly:
+						- simply telling the person to pay attention to the left side
+						- having the person look left while at the same time feeling an object with the left hand
+						- hearing a sound from the left side of the world
+					- if they cross one hand over the other as shown, the person is more likely to report feeling the left hand, which is now on the right side of the body
+					- better success if the hand was so far to the left that he or she would have to move it to the right to point to the object
+				- neglect is not due to a loss of sensation but a difficulty in directing attention to the left side
+			- damage in the left hemisphere seldom produces significant neglect of the right side
+- summary
+	- Dualism—the belief in a non-material mind that exists separately from the body—conflicts with the conservation of matter and energy, one of the best-established principles of physics. Nearly all neuroscientists and philosophers accept some version of monism, the idea that mental activity is inseparable from brain activity.
+	- The hard problem is the question of why consciousness exists at all. Most scientists and philosophers agree that we cannot answer this question, at least at present.
+	- To identify the brain activities associated with consciousness, researchers present the same stimulus under conditions when an observer probably will or probably will not identify it consciously. 
+	- When someone is conscious of a stimulus, the representation of that stimulus spreads over a large portion of the brain.
+	- A stimulus can influence our behavior without consciousness. Even before a stimulus becomes conscious, the brain processes the information enough to identify something as meaningful or meaningless.
+	- People almost never say they were partly conscious of something. It may be that consciousness is a threshold phenomenon: We become conscious of anything that exceeds a certain level of brain activity, and we are not conscious of other events. 
+	- We are not always conscious of events instantaneously as they occur. Sometimes, a later event modifies our conscious perception of a stimulus that went before it. 
+	- Researchers sometimes use brain recordings to infer whether someone is conscious. A few people diagnosed as being in a vegetative state have shown possible indications of consciousness.
+	- Attention to a stimulus requires increased brain responses to that stimulus and decreased responses to others. The prefrontal cortex is important for top-down control of attention.
+	- Damage to parts of the right hemisphere produce spatial neglect for the left side of the body or the left side of objects.
+	- Neglect results from a deficit in attention, not sensation. For example, someone with neglect can see an entire letter enough to say what it is, even though that same person ignores the left half when asked to cross out all the elements that compose it. 
+##### Making Decisions and Social Neuroscience
+- Perceptual Decisions
+	- factual decisions:
+		- to answer them you weigh the answers
+		- simplest way to imagine how the brain does this:
+			- one set of cells accumulate evidence in favour of one choice
+			- another set accumulate evidence for the other choice
+			- a third set compares the two
+	- responses in the posterior parietal cortex are graded
+	- responses in the frontal cortex produce an all-or-none outcome
+	- the posterior parietal cortex is just echoing a process taking place somewhere else, and we do not yet know where that is
+- Decisions Based on Values
+	![[Pasted image 20240520140804.png]]
+	- many decisions depend on preferences
+	- laboratory researchers simplify the situation by offering only two choices
+	- when the payoff for one choice is usually better than the other, but not always:
+		- cells in the basal ganglia gradually learn which choice is better
+		- cells in the ventromedial prefrontal cortex also participate, apparently by modifying the responses of the basal ganglia
+		- if choice A has usually been better than choice B, but something currently favours choice B, the rapid-learning prefrontal cortex can overrule the slower-learning basal ganglia
+	- damage:
+		- people with damage to the prefrontal cortex tend to bet based on their average expectation rather than what is true at the moment 
+		- most people with ventromedial prefrontal damage seem less sensitive than average to the possible rewards at the moment
+		- impairment/relative inactivity in the orbitofrontal cortex in humans is often associated with poor or impulsive decision
+		- people with damaged ventromedial prefrontal cortex tend to be overconfident in many ways:
+			- gambling heavily
+			- making impulsive decisions without carefully considering the likely consequences
+	- ventromedial prefrontal cortex monitors confidence in one’s decisions
+	- ventromedial prefrontal cortex and other areas relay information to the nearby orbitofrontal cortex which responds based on how an expected reward compares to other possible choices
+		- orbitofrontal cortex updates the expected value of one action or another, based on your current circumstances
+	- if a monkey had a choice between two rewards that were almost equal in value, its orbitofrontal neurons alternated many times between two patterns of activity, suggesting that the monkey was comparing two nearly equal values before deciding
+	- prefrontal cortex, especially the orbitofrontal cortex, updates the relative advantage or disadvantage of each possible choice
+- The Biology of Love
+	- Social neuroscience:
+		- the study of how genes, chemicals, and brain areas contribute to social behaviour
+	- when somebody is in love with someone:
+		- looking at pictures of the person you love:
+			- strongly activates the brain areas associated with reward, in ways similar to the high that people report from addictive drugs
+			- activates the hippocampus and other areas important for memory and cognition
+				- thinking about someone you love evokes memories of what you have done together
+		- what we call love combines:
+			- motivations
+			- emotions
+			- memories
+			- cognition
+		- oxytocin:
+			- "love hormone":
+				- increases attraction to a person you already love
+				- **maybe** increases fidelity to a partner
+			- men and women release it during sexual activity
+			- stimulates contractions of the uterus during childbirth
+			- stimulates breasts to produce milk
+			- tends to promote:
+				- maternal behaviour
+				- social approach
+				- pair bonding in many mammalian species
+			- can help people who struggle with recognising faces
+			- creases conformity to the opinions of your in-group but not to the opinions of an out-group 
+			- increases trust toward your in-group members, but could increase, decrease, or have no effect on trust toward other people, depending on what you think of those people
+				- research on this topic has mostly presented small effects
+				- we should be wary of drawing firm conclusions
+			- when people perceive themselves as being threatened:
+				- oxytocin increases their attention to possible dangers by increasing their:
+					- anger
+					- distress
+					- negative reactions to others, especially to strangers
+				- people who in general distrust others become even more distrustful under the influence of oxytocin
+				- we need more good research in this area
+			- tentative conclusion -> oxytocin increases attention to important social cues
+				- greater attention to facial expressions 
+				- stronger positive or negative responses to others, based on the information available
+				- does not appear to increase love, trust, or any other reaction on an absolute basis
+- Empathy and Altruism
+	- Civilised life depends on people helping one another. 
+	- empathy -> ability to identify with other people and feel their pain almost as if it were your own
+		- not unique to humans but stronger in us than in other species
+	- most people tend to be more generous toward those they see as similar to themselves
+		- from an evolutionary standpoint, it makes sense to be altruistic toward your relatives, and someone who seems similar is more likely to be related to you than someone very different
+	- some people show much stronger in-group biases than others do
+	- some people show much more empathy than others do:
+		- culture
+		- family upbringing
+		- biological factors:
+			- frontotemporal dementia 
+				- frontotemporal lobe degeneration
+				- parts of the frontal and temporal lobes of the cerebral cortex gradually degenerate
+				- damage often includes:
+					- ventromedial prefrontal cortex
+					- orbitofrontal cortex
+				- in areas that are important for evaluating possible rewards and are also important for interpreting and evaluating other people’s emotional expressions 
+				- people with damage of this type do not recognise or respond to other’s reactions, including reactions of distress, and therefore they show little empathy or concern  
+				- show little interest in how others perceive them
+					- neglect their personal hygiene
+					- fail to show embarrassment
+- summary
+	- In a perceptual decision, cells (somewhere in the brain) respond in proportion to evidence favouring one choice or the other, but the frontal orienting field responds on an all-or-none basis to which choice the evidence favours so far. 
+	- When a rat pauses at a choice point in a maze, hippocampal place cells respond in a sequence as if the rat is travelling down one arm of the maze or the other. 
+	- For a decision of which outcome is preferable, the ventromedial prefrontal cortex responds to recent information by modifying the responses of the slower-learning basal ganglia.
+	- The ventromedial prefrontal cortex is also important for monitoring how confident one should be about a decision.
+	- The orbitofrontal cortex evaluates each possible choice relative to the value of other available choices.
+	- People with damage to the prefrontal cortex are slow to switch strategies in situations such as the Iowa Gambling Task.
+	- Passionate love excites the brain in ways that resemble those of addictive drugs.
+	- Based on current evidence, it appears that the role of the hormone oxytocin is to increase attention to social cues. The result could be either increased or decreased attraction and trust.
+	- Both humans and rats show a tendency to help those they perceive as similar to themselves, more than those they perceive as different. However, some show that tendency more strongly than others.
+	- People with frontotemporal dementia are poor at understanding others’ emotions, and therefore unlikely to show empathy.
+
+#itb [[itb]]

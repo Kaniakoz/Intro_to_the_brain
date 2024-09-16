@@ -1,0 +1,351 @@
+neurons can do very little on their own but the are strong as a group
+**w kupie siła**
+###### ==From the lecture:==
+- Pyramidal cells
+	- Dendrites: receive info from other areas 
+	- Axons -> send info
+-  Interneurons 
+- More exist but not mentioned here 
+- Have a resting potential of -70 mV 
+	- Note: differs between cell types
+	- Due to hoarding K+ and keeping out Na+ by Na+/K+ pump driven by ATP 
+	- Depolarization -> less negative membrane potential
+	- Hyperpolarization -> more negative membrane potential
+- What brains are made of 
+	- white matter reflects the axons 
+		- white color comes from insulation with myelin 
+			- lack of myelination associated with dysfunction: 
+			- myelination of PFC associated with reduction in impulsive behavior 
+			- multiple sclerosis is demyelination in the CNS 
+			- Guillain-Barré syndrome is demyelination in the peripheral nervous system 
+	- Grey matter reflects the neural cell bodies
+		- (and only little myelin)
+- neurons communicate through action potential
+- computational mechanisms on single-neuron level 
+	- integrating different sources of information at dendrite level 
+	- strengthening of synapse depending on co-occurrence of signals (“cells that fire together wire together”)
+	- local field potentials:
+		- electrical signal in the extracellular space around neurons 
+		- can be recorded with electrodes outside the cell
+		- reflects the sum of action potentials within a radius of approx. 0.5 mm
+		![[Pasted image 20240423124621.png]]
+	- Neurons are organised around cortical sheets that also have layers 
+		- has 6 layers – “laminar organisation” 
+		- layer I: few cell bodies, mostly dendrites
+		- layer II/III send info to higher cortical areas
+			- E.g., from V2 to V4
+		- layer IV receives input from thalamus
+		- layer V/VI send info to lower cortical areas (feedback)
+		- often organized in columns
+	- Summary: LFP level
+		- different frequencies in spikes or brain waves can code for different stimuli 
+		- synchrony between different parts of the brain can help to connect different pieces of information 
+		- neurons project to different layers
+	- Brain imaging:
+		- magnetic resonance imaging (MRI)
+			- sending radio frequency pulses into the brain
+			- perturbs the axes of H atoms
+			- then relaxes back to basic state, with different amounts of energy for different tissues
+			- functional MRI based on blood flow -> glucose major fuel of cells
+		- spatial resolution on the order of 1 mm (structural) or 3 mm (functional)
+	- brain regions associated with different global functions:
+		- movement: motor cortex
+		- speech production: Broca
+		- vision: occipital cortex
+		- higher-level cognition difficult to localise
+		- e.g., language
+	- The brain areas don’t work independently
+		- activity in different networks goes up and down together 
+		- different networks anti-correlated
+		- networks also have functions
+	- large-scale networks:
+		- brain has many areas specialised for different functions 
+		- areas can collaborate in anti-correlated networks for larger-scale functions
+			- e.g., mind-wandering by default mode network
+##### ==The cells of the nervous system:==
+- neurons and glia:
+	- neurons:
+		-> receive information
+		-> transmit information to other cells
+		-> 16 billion in cerebral cortex
+		-> less than a billion in the rest of the brain
+		-> 69 billion in cerebellum
+		-> 1 billion in the spinal cord
+		-> structure:
+			![[Pasted image 20240420123425.png]]
+			- shapes vary between neurons
+			- all contain a soma (body)
+			- most have an axon, dendrites and presynaptic terminals:
+				- very small neurons don't have axons
+				- some lack well-defined dendrites
+			- dendrites:
+				- branching fibres that get narrower near their ends. 
+				- surface lined with specialised synaptic receptors, at which the dendrite receives information from other neurons.
+				- greater surface area, more information can be received
+				- many contain dendritic spines
+					- short outgrowths that increase the surface area available for synapses
+			- cell body/ soma:
+				- contains the nucleus, ribosomes, and mitochondria
+				- most of a neuron’s metabolic work occurs here
+				- in many neurons, the cell body is covered with synapses on its surface.
+			- axon
+				- thin fibre of a constant diameter
+				- conveys an impulse towards other neurons/ organs/ muscles
+				- can be veeeery long and very thin
+				- afferent -> brings info into a structure
+				- efferent -> carries information away from a structure
+				- end of a branch - presynaptic terminal
+			- myelin sheath
+				- insulating material covering an axon
+				- speed up flow of electricity (jumps)
+				- nodes of Ranvier are the interruptions between bumps
+				- invertebrate axons don't have them
+			- interneuron/ intrinsic neuron:
+				- a cell’s dendrites and axon are entirely contained within a single structure
+			- motor neuron:
+				- soma in the spinal cord
+				- receives excitation through its dendrites
+				- conducts impulses along its axon to a muscle
+			- sensory neuron:
+				- highly specialised at one end to a specific stimulation type
+		-> vary a lot
+	- glia:
+		![[Pasted image 20240420135647.png]]
+		-> more than neurons in cerebral cortex
+		-> less than neurons in cerebellum and many other areas
+		-> types of glia:
+			- astrocytes:
+				- active partners of neurons in many ways.
+				- wrap around the synapses of functionally related axons
+				- shield neuron connections from chemicals circulating in the surround
+				- help synchronise closely related neurons
+				- important for generating rhythms
+				- dilate the blood vessels to bring more nutrients into brain areas that have heightened activity 
+				- **possible** role in information processing
+				- tripartite synapse:
+					- possible hypothesis that the tip of an axon releases chemicals that cause the neighbouring astrocyte to release chemicals of its own, thus magnifying or modifying the message to the next neuron 
+					- a possible contributor to learning and memory
+				- respond to hormones in some brain areas (influence neurons)
+				- how an astrocyte synchronises associated axons:
+					- branches of the astrocyte in the centre surround the presynaptic terminals of related axons. 
+					- ff a few of them are active at once, the astrocyte absorbs some of the chemicals they release. 
+					- it then temporarily inhibits all the axons to which it is connected. 
+					- when the inhibition ceases, all of the axons are primed to respond again in synchrony
+					![[Pasted image 20240420140540.png]]
+			- microglia:
+				- tiny cells
+				- act as part of the immune system, removing viruses and fungi from the brain. 
+				- proliferate after brain damage, removing dead or damaged neurons 
+				- contribute to learning by removing the weakest synapses 
+			- oligodendrocytes & Schwann cells:
+				- oligodendrocytes - brain & spinal cord
+				- Schwann cells - periphery of the body
+				- build the myelin sheaths that surround and insulate certain vertebrate axons. 
+				- supply an axon with nutrients
+			- radial glia:
+				- guide the migration of neurons and their axons and dendrites during embryonic development
+				- after that, most differentiate into neurons, and a smaller number into astro/oligodendrocytes 
+	- the structures of an animal cell:
+		![[Pasted image 20240420120719.png]]
+		-> membrane - surface of the cell, separation from environment
+		![[Pasted image 20240420120557.png]]
+		-> nucleus - contains the chromosomes
+		![[Pasted image 20240420120812.png]]
+		-> mithochondrion - metabolic activities, provides energy to the cell
+		-> ribosomes - synthesise protein molecules
+		![[Pasted image 20240420120748.png]]
+		-> endoplasmic reticulum - transport newly synthesised proteins
+- blood-brain barrier:
+	- mechanism that excludes most chemicals from the vertebrate brain
+	- why we need it:
+		- When a virus invades a cell, mechanisms within the cell extrude virus particles through the membrane so that the immune system can find them. When the immune system cells discover a virus, they kill it and the cell that contains it. 
+		- If we did that in the brain, we would be losing neurons all the time but the vertebrate brain does not replace damaged neurons so we'd get messy.
+		- To minimise the risk of irreparable brain damage, the body lines the brain’s blood vessels with tightly packed cells that keep out most viruses, bacteria, and harmful chemicals.
+		- If a fucker makes it through:
+			- when the rabies virus evades the blood–brain barrier, it infects the brain and leads to death. 
+			- spirochaete responsible for syphilis also penetrates the blood–brain barrier, producing long-lasting and potentially fatal consequences. 
+			- microglia are more effective against several other viruses that enter the brain, mounting an inflammatory response that fights the virus without killing the neuron (not good):
+				- this response may control the virus without eliminating it. 
+				- when the chicken pox virus enters spinal cord cells, its particles remain there and the virus may emerge from the spinal cord decades later, causing shingles. 
+				- the virus responsible for genital herpes hides in the nervous system, producing little harm but periodically emerging to cause new genital infections.
+	-  how it works:
+				![[Pasted image 20240420141839.png]]
+		- the blood–brain barrier depends on the endothelial cells that form the walls of the capillaries
+		- outside the brain, such cells are separated by small gaps
+		- joint tightly in the brain to block viruses, bacteria, and other harmful chemicals from passage 
+		- keeps out useful chemicals (fuel + amino acids) as well as harmful ones
+		- to cross the blood–brain barrier, the brain needs special mechanisms not found in the rest of the body. 
+			- small, uncharged molecules such as O/ CO$_2$ cross through cell walls freely
+			- molecules that dissolve in the fats of the membrane cross easily. 
+			- water crosses through special protein channels in the wall of the endothelial cells
+			- for certain other chemicals (glucose, amino acids, purines, chlorine, some vitamines, iron), the brain uses active transport, a protein-mediated process that expends energy to pump chemicals from the blood into the brain. 
+			- Insulin and probably certain other hormones also cross the blood–brain barrier, at least in small amounts, although the mechanism is not yet known 
+		- In people with Alzheimer’s disease or similar conditions, the endothelial cells lining the brain’s blood vessels shrink, and harmful chemicals enter the brain 
+		- the barrier poses a difficulty for treating brain cancers, because nearly all the drugs used for chemotherapy fail to cross the blood–brain barrier.
+- nourishment of vertebrate neurons:
+	- vertebrate neurons depend almost entirely on glucose
+	- metabolising glucose requires oxygen, so neurons need its steady supply
+	- human brain uses about 20 percent of its oxygen and 25 percent of its glucose 
+	- why neurons depend on glucose:
+		- glucose is the only nutrient that crosses the blood–brain barrier in large quantities. 
+	- inability to use glucose:
+		- the body needs vitamin B1 (thiamine) to use glucose
+		- prolonged thiamine deficiency, common in chronic alcoholism, leads to death of neurons and Korsakoff’s syndrome
+- summary:
+	- neurons receive information and convey it to other cells.
+	- the nervous system contains glia that enhance & modify the neurons' activity
+	- neurons have a soma, dendrites, axon branches, presynaptic terminals. 
+	- neurons’ shapes vary depending on functions & connections with other cells. 
+	- blood–brain barrier blocks many molecules from entering the brain
+	- the barrier protects the nervous system from viruses & dangerous chemicals
+	- active transport proteins pump glucose, amino acids, and a few other chemicals into the brain and spinal cord. 
+	- certain hormones also cross the blood–brain barrier. 
+	- neurons rely heavily on glucose & need thiamine to use it
+##### ==The nerve impulse==
+- intro:
+	- if axons used electrical conduction, insulators in our body would weaken the signal over certain distance
+	- instead of conducting an electrical impulse, the axon regenerates an impulse at each point
+	- new problem -> axons transmit information at only moderate speeds some info reaches the brain faster
+	- solution -> brain doesn't register small differences in the time of info arrival 
+		- properties of impulse conduction in an axon are adapted to needs for information transfer
+- the resting potential of the neuron
+	- disturbance in resting potential -> message in a neuron develops
+	- biochemical part:
+		- all parts of a neuron are covered by a membrane about 8nm thick
+		- membrane composed of 2 layers of phospholipid molecules
+		![[Pasted image 20240421160232.png]]
+		- embedded among the phospholipids are cylindrical protein molecules through which certain chemicals can pass 
+		- when at rest, membrane maintains an electrical gradient (polarisation) —between the inside & outside of the cell. 
+		- electrical potential inside the membrane is slightly - with respect to the outside
+			- this difference in voltage is called the ==resting potential== 
+			- its typical level is –70mV
+	- forces acting on Na+ & K+:
+		- membrane has selective permeability to prevent depolarisation
+		- O, CO$_2$, H$_2$O & urea cross freely through constantly open channels.
+		- biologically important ions (Na, K, Ca, Cl) cross through membrane channels that are sometimes open and sometimes closed
+		- membrane is at rest -> Na&K channels are closed, permitting almost no flow of Na and only a small flow of K. 
+		- Na-K pump, a protein complex, repeatedly transports 3 Na+ out of the cell while drawing 2 K+ into it. 
+			 ![[Pasted image 20240421164831.png]]
+			- active transport that requires energy 
+				- result:
+					- Na+ are more than 10 times more concentrated outside the membrane than inside
+					- K+ are more concentrated inside than outside. 
+			- effective only because of the selective permeability of the membrane
+			- some K+ in the neuron slowly leak out, carrying +charge:
+				- increases the electrical gradient across the membrane
+	- why a resting potential:
+		- prepares the neuron to respond rapidly
+		- because the membrane did its work in advance by maintaining the concentration gradient for sodium, the cell is prepared to respond vigorously to a stimulus
+- the action potential:
+	- messages sent by axons
+	- if we apply a strong enough current, stimulation crosses the threshold and causes a massive depolarisation of the membrane and the membrane opens its Na channels
+	![[Pasted image 20240421165458.png]]
+	- sub-threshold stimulation produces a small response that quickly decays
+	- all-or-none law:
+		- the intensity of the stimulus cannot cause a neuron to produce a bigger or smaller action potential, or a faster or slower one. 
+		- provided that the stimulus reaches the threshold, the amplitude and velocity of an action potential are independent of the intensity of the stimulus that initiated it
+		- but it doesn't mean that the amplitude, velocity, and shape of action potentials are consistent over time for a given axon (they vary between neurons as thicker axons = faster and more potentials per second)
+		- puts constraints on how an axon can send a message. 
+			- to signal the difference between a weak stimulus and a strong stimulus, the axon can only change timing, not the size of the potential
+	- the molecular basis:
+		![[Pasted image 20240421172022.png]]
+		- at the start, Na+ are mostly outside & K+ mostly inside the neuron
+		- membrane is depolarised -> Na&K channels in the membrane open.
+		- Na channels close at the peak of the action potential
+		- neuron’s membrane contains cylindrical proteins & opening one of these allows a particular type of ion to cross the membrane. 
+			- protein that allows Na to cross -> Na channel 
+			- same rule for K
+		- axon channels regulating Na&K are voltage-gated channels. 
+			- their permeability depends on the voltage difference across the membrane
+		- after so many Na+ have crossed the membrane, the inside of the cell has a slight + charge instead of its usual -
+			- at this point both the concentration gradient and the electrical gradient drive K+ out of the cell
+			- as they flow out of the axon, they carry with them a + charge.
+			- because the K channels remain open after the Na channels close, enough K+ leave to drive the membrane beyond its usual resting level to a temporary hyper-polarisation. 
+		- at the end of this process:
+			- membrane has returned to its resting potential, 
+			- inside of the neuron has slightly more Na+ and slightly fewer K+ than before 
+			- eventually, the Na-K pump restores the original distribution of ions, but that takes time. 
+		- danger alert!
+			- after an unusually rapid series of action potentials, the pump cannot keep up with the action, and sodium accumulates within the axon. 
+			- excessive buildup of sodium can be toxic to a cell (but it's rare)
+- propagation of the action potential:
+	![[Pasted image 20240421190758.png]]
+	- goal -> conveying impulses without loss of strength over distance
+	- process:
+		- action potential:
+			- when an area of the axon membrane reaches its threshold of excitation,  Na&K channels open
+			- at first, the opening of K channels produces little effect
+			- opening Na channels lets Na+ rush into the axon
+			- positive charge flows down the axon and opens voltage-gated Na channels at the next point.
+			- at the peak of the action potential, the Na gates snap shut. They remain closed for the next millisecond or so, despite the depolarisation of the membrane.
+			- because voltage-gated K channels remain open, K+ flow out of the axon, returning the membrane toward its original depolarisation.
+			- a few milliseconds later, the voltage-dependent K channels close
+		- backpropagation:
+			- an action potential always starts in an axon and propagates without loss from start to finish. 
+			- at its start, it “back-propagates” into the cell body and dendrites
+			- cell body and dendrites do not conduct action potentials in the same way that axons do, but they passively register the electrical event that started in the nearby axon. 
+			- back-propagation is important: 
+				- when an action potential back-propagates into a dendrite, the dendrite becomes more susceptible to the structural changes responsible for learning.
+- the myelin sheath and saltatory conduction:
+	- to increase the speed at which action potentials travell 
+	- sheaths of myelin, an insulating material composed of fats and proteins
+	- myelin sheath is interrupted periodically by short sections of axon (nodes of Ranvier) 
+	- In myelinated axons, the action potential starts at the first node of Ranvier
+	- saltatory conduction:
+		- jumping of action potentials from node to node
+		- conserves energy too - myelinated axon admits Na only at the nodes
+	- sclerosis attacks myelin sheaths
+	- the refractory period:
+		- period during which the cell resists to produce further action potentials
+		- happens while returning from the peak
+		- process:
+			- absolute refractory period:
+				- the membrane cannot produce another action potential, regardless of the stimulation. 
+			- relative refractory period:
+				- a stronger-than-usual stimulus is necessary to initiate an action potential
+		- depends on:
+			- Na channels are closed
+			- K is flowing out of the cell at a faster-than-usual rate
+		- prevents an action potential near the centre of an axon from re-invading the areas that it has just passed, as the areas it just passed are still in their refractory period.
+- local neurons:
+	- small neurons without an axon, so they only exchange information with their closest neighbours. 
+	- do not follow the all-or-none law
+	- when a local neuron receives information from other neurons, it has a graded potential:
+		- a membrane potential that varies in magnitude in proportion to the intensity of the stimulus
+		- change in membrane potential is conducted to adjacent areas of the cell, in all directions, gradually decaying as it travels Those various areas of the cell contact other neurons, which they excite or inhibit.
+	- difficult to study because it is almost impossible to insert an electrode into a tiny cell without damaging it.
+		- most of our knowledge has come from large neurons, and that bias in our research methods may have led to a misconception that the small neurons were immature. 
+			- possible origin for the 10% use of brain myth
+				- ==You use all of your brain, regardless of whether you are using it well.==
+- summary:
+	- action potential transmits information without loss of intensity over distance. 
+		- cost -> delay between the stimulus and its arrival in the brain
+	- inside of a resting neuron has a - charge with respect to the outside
+	- Na-K pump moves Na+ out of the neuron, and K+ in
+	- membrane at rest ->  electrical gradient & the concentration gradient would act to move sodium ions into the cell, except that its gates are closed
+	- electrical gradient tends to move K+ into the cell, but the concentration gradient tends to move it out. The two forces almost balance out, but not quite, leaving a net tendency for potassium to exit the cell. 
+	- all-or-none law
+	- when the membrane is sufficiently depolarised to reach the cell’s threshold, sodium and potassium channels open. 
+		- Na+ enter rapidly, reducing and reversing the charge across the membrane (action potential)
+		- after the peak of the action potential, the membrane returns toward its original level of polarisation because  of the K+ outflow
+	- action potential is regenerated at successive points along the axon as Na+ flow through the core of the axon & stimulate the next point along the axon to its threshold. 
+	- the action potential maintains a constant magnitude as it passes along the axon. 
+	- In axons that are covered with myelin, action potentials form only in the nodes that separate myelinated segments. 
+	- transmission in myelinated axons is faster than in unmyelinated axons. 
+	- immediately after an action potential, the membrane enters a refractory period during which it is resistant to starting another action potential.
+	- local neurons are small, with no axon, conveying information over short distances
+	- people use all of their brain, not some smaller percentage
+
+
+
+### Active recall
+- describe neurons and glia
+- summarise how the blood-brain barrier relates to protection and nutrition of neurons
+- explain how the sodium-potassium pump & the properties of the membrane lead to the resting potential of a neuron
+- state the all-or-none law of the action potential
+
+
+
+#itb [[itb]]
+
+
